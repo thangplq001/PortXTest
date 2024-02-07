@@ -1,0 +1,15 @@
+{
+    "steps": [
+        "step 1: Navigate to Page frequent-projects",
+        "step 2: At Page frequent-projects, click on button stop",
+        "step 3: At Page frequent-projects, click on hyperlink",
+        "step 4: At Page frequent-projects, click on hyperlink > navigate to Page lanes",
+        "step 5: At Page lanes, click on div object",
+        "step 6: At Page lanes, click on hyperlink > navigate to Page billing-items",
+        "step 7: At Page billing-items, click on hyperlink > navigate to Page estimate-items",
+        "step 8: At Page estimate-items, click on hyperlink",
+        "step 9: At Page estimate-items, click on hyperlink > navigate to Page bills",
+        "step 10: At Page bills, click on hyperlink",
+        "step 11: Add visual checkpoint at Page bills"
+    ]
+}

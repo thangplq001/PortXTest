@@ -1,0 +1,23 @@
+{
+    "steps": [
+        "step 1: Navigate to Page frequent-projects",
+        "step 2: At Page frequent-projects, click on button stop",
+        "step 3: At Page frequent-projects, click on hyperlink",
+        "step 4: At Page frequent-projects, click on hyperlink > navigate to Page lanes",
+        "step 5: At Page lanes, click on hyperlink > navigate to Page suppliers",
+        "step 6: At Page suppliers, click on hyperlink > navigate to Page mail-templates",
+        "step 7: At Page mail-templates, click on hyperlink",
+        "step 8: At Page mail-templates, click on hyperlink > navigate to Page bills",
+        "step 9: At Page bills, click on hyperlink > navigate to Page frequent-projects",
+        "step 10: At Page frequent-projects, click on div object",
+        "step 11: At Page frequent-projects, click on button > navigate to Page frequent-projects edit",
+        "step 12: At Page frequent-projects edit, click on div lpx wrapper",
+        "step 13: At Page frequent-projects edit, input on input project name",
+        "step 14: At Page frequent-projects edit, click on div object",
+        "step 15: At Page frequent-projects edit, click on input object",
+        "step 16: At Page frequent-projects edit, click on div object",
+        "step 17: At Page frequent-projects edit, hover on div object",
+        "step 18: At Page frequent-projects edit, click on input object",
+        "step 19: Add visual checkpoint at Page frequent-projects edit"
+    ]
+}

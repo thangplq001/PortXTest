@@ -1,0 +1,16 @@
+{
+    "steps": [
+        "step 1: Navigate to Page frequent-projects",
+        "step 2: At Page frequent-projects, click on button stop",
+        "step 3: At Page frequent-projects, click on hyperlink",
+        "step 4: At Page frequent-projects, click on hyperlink > navigate to Page lanes",
+        "step 5: At Page lanes, click on hyperlink > navigate to Page suppliers",
+        "step 6: At Page suppliers, click on hyperlink > navigate to Page mail-templates",
+        "step 7: At Page mail-templates, click on hyperlink",
+        "step 8: At Page mail-templates, click on hyperlink > navigate to Page bills",
+        "step 9: At Page bills, click on hyperlink > navigate to Page frequent-projects",
+        "step 10: At Page frequent-projects, click on hyperlink > navigate to Page bills",
+        "step 11: At Page bills, click on td object",
+        "step 12: Add visual checkpoint at Page bills"
+    ]
+}

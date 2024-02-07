@@ -1,0 +1,24 @@
+{
+    "steps": [
+        "step 1: Navigate to Page frequent-projects",
+        "step 2: At Page frequent-projects, click on hyperlink",
+        "step 3: At Page frequent-projects, click on hyperlink > navigate to Page billing-items",
+        "step 4: At Page billing-items, click on hyperlink > navigate to Page estimate-items",
+        "step 5: At Page estimate-items, click on hyperlink > navigate to Page bills",
+        "step 6: At Page bills, click on hyperlink",
+        "step 7: At Page bills, click on hyperlink > navigate to Page lanes",
+        "step 8: At Page lanes, click on button dropdownbasic1",
+        "step 9: At Page lanes, click on button excel",
+        "step 10: At Page lanes, click on h5 object",
+        "step 11: At Page lanes, click on input object",
+        "step 12: At Page lanes, click on button",
+        "step 13: At Page lanes, click on div object",
+        "step 14: At Page lanes, click on hyperlink > navigate to Page bills",
+        "step 15: At Page bills, click on hyperlink > navigate to Page frequent-projects",
+        "step 16: At Page frequent-projects, click on div object",
+        "step 17: At Page frequent-projects, click on button",
+        "step 18: At Page frequent-projects, click on button dropdownbasic1",
+        "step 19: At Page frequent-projects, click on button excel",
+        "step 20: Add visual checkpoint at Page frequent-projects"
+    ]
+}

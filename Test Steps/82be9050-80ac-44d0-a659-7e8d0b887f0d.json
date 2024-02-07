@@ -1,0 +1,13 @@
+{
+    "steps": [
+        "step 1: Navigate to Page frequent-projects",
+        "step 2: At Page frequent-projects, click on hyperlink > navigate to Page bills",
+        "step 3: At Page bills, click on button",
+        "step 4: At Page bills, click on h5 object",
+        "step 5: At Page bills, click on input object",
+        "step 6: At Page bills, click on button > navigate to Page bills notification",
+        "step 7: At Page bills notification, click on hyperlink > navigate to Page bills",
+        "step 8: At Page bills, click on div object",
+        "step 9: Add visual checkpoint at Page bills"
+    ]
+}
