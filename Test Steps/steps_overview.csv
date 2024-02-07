@@ -1,9 +1,98 @@
-Flow ID,Description,Test Steps,Flow Priority
-2,Verify Successful Navigation to Hello World Page and Author Page,"step 1: Navigate to Page home
-step 2: At Page home click on hyperlink thangplqwebhostapp com hello world --> navigate to Page hello-world
-step 3: At Page hello-world click on hyperlink ng b i plqthang --> navigate to Page author plqthang
-step 4: Add visual checkpoint at Page author plqthang",High
-1,Verify Successful Navigation to Home Page and Validation of Input Field,"step 1: Navigate to Page home
-step 2: At Page home input on input s
-step 3: At Page home click on button object
-step 4: Add visual checkpoint at Page home",Medium
+Flow ID,Name,Description,Test Steps,Flow Priority
+0,Verify Page Frequent Projects after Performing Multiple Actions,"Navigate to the page frequent projects and perform multiple actions such as clicking, hovering, and inputting data. Finally, verify the page frequent projects.","step 1: Navigate to Page frequent-projects
+step 2: At Page frequent-projects, click on hyperlink
+step 3: At Page frequent-projects, click on button
+step 4: At Page frequent-projects, click on div object
+step 5: At Page frequent-projects, click on button
+step 6: At Page frequent-projects, click on input frequent project session name
+step 7: At Page frequent-projects, click on button
+step 8: At Page frequent-projects, hover on div object
+step 9: At Page frequent-projects, click on button
+step 10: At Page frequent-projects, click on input frequent project session name
+step 11: At Page frequent-projects, click on button
+step 12: At Page frequent-projects, click on span object
+step 13: At Page frequent-projects, click on button
+step 14: At Page frequent-projects, click on div object
+step 15: At Page frequent-projects, click on i object
+step 16: At Page frequent-projects, click on hyperlink admin
+step 17: Add visual checkpoint at Page frequent-projects",High
+1,Verify Page Frequent Projects after Performing Specific Actions,"Navigate to the page frequent projects and perform specific actions such as clicking, hovering, and inputting data. Finally, verify the page frequent projects.","step 1: Navigate to Page frequent-projects
+step 2: At Page frequent-projects, click on hyperlink
+step 3: At Page frequent-projects, click on button
+step 4: At Page frequent-projects, click on div object
+step 5: At Page frequent-projects, click on button
+step 6: At Page frequent-projects, click on input frequent project session name
+step 7: At Page frequent-projects, click on button
+step 8: At Page frequent-projects, hover on div object
+step 9: At Page frequent-projects, click on button
+step 10: At Page frequent-projects, click on input frequent project session name
+step 11: At Page frequent-projects, click on button
+step 12: At Page frequent-projects, click on span object
+step 13: At Page frequent-projects, click on button
+step 14: At Page frequent-projects, click on button
+step 15: Add visual checkpoint at Page frequent-projects",High
+2,Verify Page Frequent Projects after Specific Actions,"Navigate to the page frequent projects and perform specific actions such as clicking, hovering, and inputting data. Finally, verify the page frequent projects.","step 1: Navigate to Page frequent-projects
+step 2: At Page frequent-projects, click on hyperlink
+step 3: At Page frequent-projects, click on button
+step 4: At Page frequent-projects, click on div object
+step 5: At Page frequent-projects, click on button
+step 6: At Page frequent-projects, click on input frequent project session name
+step 7: At Page frequent-projects, click on button
+step 8: At Page frequent-projects, hover on div object
+step 9: At Page frequent-projects, click on button
+step 10: At Page frequent-projects, click on input frequent project session name
+step 11: At Page frequent-projects, click on button
+step 12: At Page frequent-projects, click on span object
+step 13: At Page frequent-projects, click on i object
+step 14: Add visual checkpoint at Page frequent-projects",Medium
+3,Verify Page Frequent Projects after Specific Actions,"Navigate to the page frequent projects and perform specific actions such as clicking, hovering, and inputting data. Finally, verify the page frequent projects.","step 1: Navigate to Page frequent-projects
+step 2: At Page frequent-projects, click on hyperlink
+step 3: At Page frequent-projects, click on button
+step 4: At Page frequent-projects, click on div object
+step 5: At Page frequent-projects, click on button
+step 6: At Page frequent-projects, click on input frequent project session name
+step 7: At Page frequent-projects, click on button
+step 8: At Page frequent-projects, hover on div object
+step 9: At Page frequent-projects, click on button
+step 10: At Page frequent-projects, click on input frequent project session name
+step 11: At Page frequent-projects, click on button
+step 12: At Page frequent-projects, click on span object
+step 13: At Page frequent-projects, click on i object
+step 14: Add visual checkpoint at Page frequent-projects",Medium
+4,Verify Page Frequent Projects Edit after Specific Actions,"Navigate to the page frequent projects and perform specific actions such as clicking and inputting data. Finally, verify the page frequent projects edit.","step 1: Navigate to Page frequent-projects
+step 2: At Page frequent-projects, click on hyperlink
+step 3: At Page frequent-projects, click on button
+step 4: At Page frequent-projects, click on div object
+step 5: At Page frequent-projects, click on button > navigate to Page frequent-projects edit
+step 6: At Page frequent-projects edit, click on button
+step 7: At Page frequent-projects edit, click on span object
+step 8: At Page frequent-projects edit, click on button object
+step 9: At Page frequent-projects edit, click on button
+step 10: Add visual checkpoint at Page frequent-projects edit",Medium
+5,Verify Page Frequent Projects after Performing Specific Actions,"Navigate to the page frequent projects and perform specific actions such as clicking, hovering, and inputting data. Finally, verify the page frequent projects.","step 1: Navigate to Page frequent-projects
+step 2: At Page frequent-projects, click on hyperlink
+step 3: At Page frequent-projects, click on button
+step 4: At Page frequent-projects, click on div object
+step 5: At Page frequent-projects, click on button
+step 6: At Page frequent-projects, click on input frequent project session name
+step 7: At Page frequent-projects, click on button
+step 8: At Page frequent-projects, hover on div object
+step 9: At Page frequent-projects, click on button
+step 10: At Page frequent-projects, click on input frequent project session name
+step 11: At Page frequent-projects, click on button
+step 12: At Page frequent-projects, click on button
+step 13: At Page frequent-projects, click on i object
+step 14: Add visual checkpoint at Page frequent-projects",Low
+6,Verify Page Frequent Projects Edit after Performing Specific Actions,"Navigate to the page frequent projects and perform specific actions such as inputting data. Finally, verify the page frequent projects edit.","step 1: Navigate to Page frequent-projects
+step 2: At Page frequent-projects, click on hyperlink
+step 3: At Page frequent-projects, click on button
+step 4: At Page frequent-projects, click on div object
+step 5: At Page frequent-projects, click on button > navigate to Page frequent-projects edit
+step 6: At Page frequent-projects edit, click on div lpx wrapper
+step 7: At Page frequent-projects edit, input on input project name
+step 8: At Page frequent-projects edit, click on div object
+step 9: At Page frequent-projects edit, click on input object
+step 10: At Page frequent-projects edit, click on div object
+step 11: At Page frequent-projects edit, hover on div object
+step 12: At Page frequent-projects edit, click on input object
+step 13: Add visual checkpoint at Page frequent-projects edit",Trivial

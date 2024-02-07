@@ -1,0 +1,17 @@
+{
+    "steps": [
+        "step 1: Navigate to Page frequent-projects",
+        "step 2: At Page frequent-projects, click on hyperlink",
+        "step 3: At Page frequent-projects, click on button",
+        "step 4: At Page frequent-projects, click on div object",
+        "step 5: At Page frequent-projects, click on button > navigate to Page frequent-projects edit",
+        "step 6: At Page frequent-projects edit, click on div lpx wrapper",
+        "step 7: At Page frequent-projects edit, input on input project name",
+        "step 8: At Page frequent-projects edit, click on div object",
+        "step 9: At Page frequent-projects edit, click on input object",
+        "step 10: At Page frequent-projects edit, click on div object",
+        "step 11: At Page frequent-projects edit, hover on div object",
+        "step 12: At Page frequent-projects edit, click on input object",
+        "step 13: Add visual checkpoint at Page frequent-projects edit"
+    ]
+}

@@ -1,8 +1,0 @@
-{
-    "steps": [
-        "step 1: Navigate to Page home",
-        "step 2: At Page home click on hyperlink thangplqwebhostapp com hello world --> navigate to Page hello-world",
-        "step 3: At Page hello-world click on hyperlink ng b i plqthang --> navigate to Page author plqthang",
-        "step 4: Add visual checkpoint at Page author plqthang"
-    ]
-}
