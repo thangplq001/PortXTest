@@ -18,7 +18,6 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
-
 WebUI.navigateToUrl('https://att.app.portx-demo.com/')
 
 WebUI.setText(findTestObject('Object Repository/Page_PortX/input_LoginInput.UserNameOrEmailAddress'), 'admin')
