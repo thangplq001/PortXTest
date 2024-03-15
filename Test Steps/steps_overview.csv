@@ -1,5 +1,25 @@
 Flow ID,Name,Description,Test Steps,Flow Priority
-1,Verify Page Frequent Projects,"Navigate to the page frequent projects, login, and perform a series of clicks and inputs. Finally, verify the page frequent projects.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+1,Verify Suppliers Page Functionality,"Navigate to the frequent projects page and log in. Perform a series of actions such as adding a person in charge, saving the details, and verifying the page for suppliers.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
+step 5: Click on link '\u5834\u6240\u30de\u30b9\u30bf' -> Navigate to page 'places'
+step 6: Click on link 'Suppliers' -> Navigate to page 'suppliers'
+step 7: Click on button ' \u7269\u6d41\u4f01\u696d\u306e\u8ffd\u52a0'
+step 8: Click on input field 'supplier-name'
+step 9: Enter input value in input field 'supplier-name'
+step 10: Click on div
+step 11: Click on span
+step 12: Click on button ' \u4fdd\u5b58' -> Navigate to page 'suppliers/*'
+step 13: Click on button ' Add Person In Charge'
+step 14: Click on div
+step 15: Click on input field 'user-supplier-name'
+step 16: Enter input value in input field 'user-supplier-name'
+step 17: Click on input field 'user-supplier-email'
+step 18: Click on textarea 'user-supplier-remark'
+step 19: Click on button ' Save'
+step 20: Take full page screenshot as checkpoint",High
+2,Verify Default Items in Frequent Projects,Navigate to the frequent projects page and log in. Access the default items section and verify the presence of the default items.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
 step 2: Login
 step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
 step 4: Click on link '\u6848\u4ef6\u4e00\u89a7' -> Navigate to page 'spot-projects'
@@ -16,7 +36,26 @@ step 14: Click on input field
 step 15: Click on input field
 step 16: Click on button '\u4fdd\u5b58' -> Navigate to page 'frequent-projects/*/*/*'
 step 17: Take full page screenshot as checkpoint",High
-2,Verify Page Frequent Projects,"Navigate to the page frequent projects, login, and perform a series of clicks. Finally, verify the page frequent projects.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+3,Verify Mail Templates and Categories,"Navigate to the frequent projects page and log in. Access the mail templates and categories, create a new template, and verify the presence of the templates.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
+step 5: Click on link '\u5834\u6240\u30de\u30b9\u30bf' -> Navigate to page 'places'
+step 6: Click on link 'Ports' -> Navigate to page 'ports'
+step 7: Click on link 'Lanes' -> Navigate to page 'lanes'
+step 8: Click on link 'Mail Templates' -> Navigate to page 'mail-templates'
+step 9: Click on button ' \u8ffd\u52a0'
+step 10: Click on input field 'mail-template-category-name'
+step 11: Click on button ' \u4fdd\u5b58' -> Navigate to page 'mail-templates/*'
+step 12: Click on button ' \u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u3092\u4f5c\u6210\u3059\u308b' -> Navigate to page 'mail-templates/new/*/*'
+step 13: Click on input field 'mail-template-name'
+step 14: Click on input field 'mail-template-subject'
+step 15: Click on textarea 'mail-template-body'
+step 16: Enter input value in textarea 'mail-template-body'
+step 17: Click on button '\u4fdd\u5b58' -> Navigate to page 'mail-templates/*'
+step 18: Click on button
+step 19: Take full page screenshot as checkpoint",High
+4,Verify Default Item Names in Frequent Projects,Navigate to the frequent projects page and log in. Access the default items section and verify the default item names.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
 step 2: Login
 step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
 step 4: Click on link '\u6848\u4ef6\u4e00\u89a7' -> Navigate to page 'spot-projects'
@@ -31,42 +70,38 @@ step 12: Click on i
 step 13: Click on input field 'regular-default-item-name'
 step 14: Click on button ' \u4fdd\u5b58'
 step 15: Take full page screenshot as checkpoint",High
-3,Verify Page Selection Items,"Navigate to the page frequent projects, login, and perform a series of clicks. Finally, verify the page selection items.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+5,Verify Estimation Items and Billing Items,"Navigate to the frequent projects page and log in. Access the estimation and billing items, perform certain actions, and verify the presence of the estimation items.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
 step 2: Login
 step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
-step 4: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
-step 5: Click on link '\u5834\u6240\u30de\u30b9\u30bf' -> Navigate to page 'places'
+step 4: Click on link 'Estimate Items' -> Navigate to page 'estimate-items'
+step 5: Click on link '\u8acb\u6c42\u9805\u76ee\u30de\u30b9\u30bf' -> Navigate to page 'billing-items'
 step 6: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
 step 7: Click on div
 step 8: Click on div
-step 9: Click on button ' \u4f5c\u6210'
+step 9: Click on link 'Estimate Items' -> Navigate to page 'estimate-items'
 step 10: Take full page screenshot as checkpoint",High
-4,Verify Page Mail Templates,"Navigate to the page frequent projects, login, and perform a series of clicks and inputs. Finally, verify the page mail templates.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+6,Verify Selection Items in Frequent Projects,Navigate to the frequent projects page and log in. Access the selection items and perform certain actions to verify their presence.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link 'Estimate Items' -> Navigate to page 'estimate-items'
+step 5: Click on link '\u8acb\u6c42\u9805\u76ee\u30de\u30b9\u30bf' -> Navigate to page 'billing-items'
+step 6: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
+step 7: Click on div
+step 8: Click on div
+step 9: Click on button
+step 10: Take full page screenshot as checkpoint",High
+7,Verify Ports and Estimate Items,"Navigate to the frequent projects page and log in. Access the ports and estimate items, perform certain actions, and verify the presence of the estimate items.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
 step 2: Login
 step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
 step 4: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
 step 5: Click on link '\u5834\u6240\u30de\u30b9\u30bf' -> Navigate to page 'places'
-step 6: Click on link '\u6e2f\u30de\u30b9\u30bf' -> Navigate to page 'ports'
-step 7: Click on link '\u30ec\u30fc\u30f3\u30de\u30b9\u30bf' -> Navigate to page 'lanes'
-step 8: Click on link '\u7269\u6d41\u4f01\u696d\u30de\u30b9\u30bf' -> Navigate to page 'suppliers'
-step 9: Click on button ' \u7269\u6d41\u4f01\u696d\u306e\u8ffd\u52a0'
-step 10: Click on input field 'supplier-name'
-step 11: Enter input value in input field 'supplier-name'
-step 12: Click on div
-step 13: Click on span
-step 14: Click on button ' \u4fdd\u5b58' -> Navigate to page 'suppliers/*'
-step 15: Click on link '\u30e1\u30fc\u30eb\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8' -> Navigate to page 'mail-templates'
-step 16: Click on button ' \u8ffd\u52a0'
-step 17: Click on input field 'mail-template-category-name'
-step 18: Click on button ' \u4fdd\u5b58' -> Navigate to page 'mail-templates/*'
-step 19: Click on button ' \u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u3092\u4f5c\u6210\u3059\u308b' -> Navigate to page 'mail-templates/new/*/*'
-step 20: Click on input field 'mail-template-name'
-step 21: Click on input field 'mail-template-subject'
-step 22: Click on textarea 'mail-template-body'
-step 23: Enter input value in textarea 'mail-template-body'
-step 24: Click on button '\u4fdd\u5b58' -> Navigate to page 'mail-templates/*'
-step 25: Take full page screenshot as checkpoint",High
-5,Verify Page Identity Organization Units,"Navigate to the page frequent projects, perform a series of clicks, login, and verify the page identity organization units.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 6: Click on link 'Ports' -> Navigate to page 'ports'
+step 7: Click on link '\u898b\u7a4d\u9805\u76ee\u30de\u30b9\u30bf' -> Navigate to page 'estimate-items'
+step 8: Click on div
+step 9: Click on button
+step 10: Click on button
+step 11: Take full page screenshot as checkpoint",High
+8,Verify Organization Units in Identity,"Navigate to the frequent projects page, access the identity section, and verify the presence of organization units.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
 step 2: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
 step 3: Click on link '\u6848\u4ef6\u4e00\u89a7' -> Navigate to page 'spot-projects'
 step 4: Click on link '\u898b\u7a4d\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u521d\u671f\u9805\u76ee\u8a2d\u5b9a' -> Navigate to page 'spot-template-default-items'
@@ -85,23 +120,20 @@ step 16: Click on button '\u30ad\u30e3\u30f3\u30bb\u30eb'
 step 17: Click on button 'confirm'
 step 18: Click on link '\u7d44\u7e54\u5358\u4f4d' -> Navigate to page 'identity/organization-units'
 step 19: Take full page screenshot as checkpoint",High
-6,Verify Page Selection Items,"Navigate to the page frequent projects, login, and perform a series of clicks. Finally, verify the page selection items.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+9,Verify Billing Items and Selection Items,Navigate to the frequent projects page and log in. Access the billing and selection items and verify their presence.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
 step 2: Login
 step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
-step 4: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
-step 5: Click on link '\u5834\u6240\u30de\u30b9\u30bf' -> Navigate to page 'places'
-step 6: Click on button '\u30a8\u30af\u30b9\u30dd\u30fc\u30c8\uff08Excel\uff09'
-step 7: Click on link
-step 8: Click on button '\u30a4\u30f3\u30dd\u30fc\u30c8\uff08Excel\uff09'
-step 9: Click on header
-step 10: Click on input field
-step 11: Click on button ' \u53d6\u8fbc' -> Navigate to page 'error'
-step 12: Click on link '\u6e2f\u30de\u30b9\u30bf'
-step 13: Click on link '\u898b\u7a4d\u9805\u76ee\u30de\u30b9\u30bf' -> Navigate to page 'estimate-items'
-step 14: Click on link '\u8acb\u6c42\u9805\u76ee\u30de\u30b9\u30bf' -> Navigate to page 'billing-items'
-step 15: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
-step 16: Take full page screenshot as checkpoint",High
-7,Verify Page Frequent Projects,"Navigate to the page frequent projects, login, and perform a series of clicks. Finally, verify the page frequent projects.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 4: Click on link '\u8acb\u6c42\u66f8\u7ba1\u7406' -> Navigate to page 'bills'
+step 5: Click on link '\u30de\u30b9\u30bf'
+step 6: Click on link '\u898b\u7a4d\u9805\u76ee\u30de\u30b9\u30bf' -> Navigate to page 'estimate-items'
+step 7: Click on link 'Billing Items' -> Navigate to page 'billing-items'
+step 8: Click on select
+step 9: Click on select
+step 10: Click on select
+step 11: Click on select
+step 12: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
+step 13: Take full page screenshot as checkpoint",High
+10,Verify Default Items in Frequent Projects,Navigate to the frequent projects page and log in. Access the default items section and verify the presence of the default items.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
 step 2: Login
 step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
 step 4: Click on link '\u6848\u4ef6\u4e00\u89a7' -> Navigate to page 'spot-projects'
@@ -114,46 +146,72 @@ step 10: Click on input field 'regular-template-default-item-name'
 step 11: Click on button ' \u4fdd\u5b58'
 step 12: Click on i
 step 13: Take full page screenshot as checkpoint",High
-8,Verify Page Selection Items,"Navigate to the page frequent projects, login, and perform a series of clicks and inputs. Finally, verify the page selection items.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+11,Verify Master Settings and New Estimate Item,"Navigate to the frequent projects page and log in. Access the master settings, create a new estimate item, and verify its presence.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u6848\u4ef6\u4e00\u89a7' -> Navigate to page 'spot-projects'
+step 5: Click on link '\u898b\u7a4d\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u521d\u671f\u9805\u76ee\u8a2d\u5b9a' -> Navigate to page 'spot-template-default-items'
+step 6: Click on link '\u5b9a\u671f\u5165\u672d' -> Navigate to page 'frequent-projects'
+step 7: Click on link 'Master settings'
+step 8: Click on link 'Administration'
+step 9: Click on link 'Master settings'
+step 10: Click on div  -> Navigate to page 'frequent-projects/*'
+step 11: Click on link 'Estimate Items' -> Navigate to page 'estimate-items'
+step 12: Click on div
+step 13: Click on button ' New Estimate Item'
+step 14: Take full page screenshot as checkpoint",High
+12,Verify Error Page on Place Creation,"Navigate to the frequent projects page and log in. Access the places section, create a new place, and verify the error page.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
 step 2: Login
 step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
 step 4: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
 step 5: Click on link '\u5834\u6240\u30de\u30b9\u30bf' -> Navigate to page 'places'
-step 6: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
-step 7: Click on div
-step 8: Click on td
+step 6: Click on button ' \u65b0\u3057\u3044\u5834\u6240'
+step 7: Click on input field 'place-place-name'
+step 8: Enter input value in input field 'place-place-name'
+step 9: Click on select 'place-country'
+step 10: Click on select 'place-country'
+step 11: Click on input field 'place-address'
+step 12: Enter input value in input field 'place-address' -> Navigate to page 'error'
+step 13: Click on link '\u30de\u30b9\u30bf'
+step 14: Take full page screenshot as checkpoint",High
+13,Verify Mail Templates and Suppliers,"Navigate to the frequent projects page and log in. Access the mail templates and suppliers, perform certain actions, and verify the presence of the suppliers.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
+step 5: Click on link '\u5834\u6240\u30de\u30b9\u30bf' -> Navigate to page 'places'
+step 6: Click on link '\u30ec\u30fc\u30f3\u30de\u30b9\u30bf' -> Navigate to page 'lanes'
+step 7: Click on link 'Mail Templates' -> Navigate to page 'mail-templates'
+step 8: Click on link '\u7269\u6d41\u4f01\u696d\u30de\u30b9\u30bf' -> Navigate to page 'suppliers'
 step 9: Click on button
-step 10: Click on button
-step 11: Click on textarea 'selection-item-description'
-step 12: Enter input value in textarea 'selection-item-description'
-step 13: Click on button ' \u4fdd\u5b58'
-step 14: Click on td
-step 15: Click on button
-step 16: Click on button
-step 17: Enter input value in input field 'selection-item-name'
-step 18: Take full page screenshot as checkpoint",High
-9,Verify Page Selection Items,"Navigate to the page frequent projects, login, and perform a series of clicks. Finally, verify the page selection items.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 10: Take full page screenshot as checkpoint",High
+14,Verify Selection Items and New Selection Item,"Navigate to the frequent projects page and log in. Access the selection items, create a new selection item, and verify its presence.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
 step 2: Login
 step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
-step 4: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
-step 5: Click on link '\u5834\u6240\u30de\u30b9\u30bf' -> Navigate to page 'places'
+step 4: Click on link 'Estimate Items' -> Navigate to page 'estimate-items'
+step 5: Click on link '\u8acb\u6c42\u9805\u76ee\u30de\u30b9\u30bf' -> Navigate to page 'billing-items'
 step 6: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
-step 7: Click on div
-step 8: Click on input field 'flexSwitchCheckChecked-3a0f452e-48ce-24a9-6f2f-e08f3fc704fa'
-step 9: Take full page screenshot as checkpoint",High
-10,Verify Page Lanes,"Navigate to the page frequent projects, login, and perform a series of clicks. Finally, verify the page lanes.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 7: Click on button ' New Selection Item'
+step 8: Click on textarea 'selection-item-description'
+step 9: Enter input value in textarea 'selection-item-description'
+step 10: Click on button ' \u4fdd\u5b58'
+step 11: Click on td
+step 12: Click on button
+step 13: Click on button
+step 14: Enter input value in input field 'selection-item-name'
+step 15: Take full page screenshot as checkpoint",High
+15,Verify Ports and Object in Lanes,"Navigate to the frequent projects page and log in. Access the ports and lanes, perform certain actions, and verify the presence of the lanes.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
 step 2: Login
 step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
 step 4: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
 step 5: Click on link '\u5834\u6240\u30de\u30b9\u30bf' -> Navigate to page 'places'
-step 6: Click on link '\u6e2f\u30de\u30b9\u30bf' -> Navigate to page 'ports'
-step 7: Click on link '\u30ec\u30fc\u30f3\u30de\u30b9\u30bf' -> Navigate to page 'lanes'
+step 6: Click on link 'Ports' -> Navigate to page 'ports'
+step 7: Click on link 'Lanes' -> Navigate to page 'lanes'
 step 8: Click on button 'dropdownBasic1'
 step 9: Click on button 'Excel\u304b\u3089\u30a4\u30f3\u30dd\u30fc\u30c8'
 step 10: Click on div
 step 11: Click on input field
 step 12: Take full page screenshot as checkpoint",High
-11,Verify Page Spot Projects New,"Navigate to the page frequent projects, login, and perform a series of clicks. Finally, verify the page spot projects new.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+16,Verify New Spot Projects Creation,Navigate to the frequent projects page and log in. Access the spot projects section and verify the creation of new spot projects.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
 step 2: Login
 step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
 step 4: Click on link '\u6848\u4ef6\u4e00\u89a7' -> Navigate to page 'spot-projects'
@@ -164,7 +222,25 @@ step 8: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
 step 9: Click on link '\u6848\u4ef6\u4e00\u89a7' -> Navigate to page 'spot-projects'
 step 10: Click on button ' \u6848\u4ef6\u306e\u65b0\u898f\u4f5c\u6210' -> Navigate to page 'spot-projects/new'
 step 11: Take full page screenshot as checkpoint",High
-14,Verify Page Frequent Project Comparisons,"Navigate to the page frequent projects, login, and perform a series of clicks and inputs. Finally, verify the page frequent project comparisons.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+17,Verify New Billing Item Group Creation,Navigate to the frequent projects page and log in. Access the billing items and create a new billing item group.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u8acb\u6c42\u66f8\u7ba1\u7406' -> Navigate to page 'bills'
+step 5: Click on link '\u30de\u30b9\u30bf'
+step 6: Click on link '\u898b\u7a4d\u9805\u76ee\u30de\u30b9\u30bf' -> Navigate to page 'estimate-items'
+step 7: Click on link 'Billing Items' -> Navigate to page 'billing-items'
+step 8: Click on button ' New Billing Item Group'
+step 9: Take full page screenshot as checkpoint",High
+18,Verify Billing Items in Frequent Projects,Navigate to the frequent projects page and log in. Access the billing items and verify their presence.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u8acb\u6c42\u66f8\u7ba1\u7406' -> Navigate to page 'bills'
+step 5: Click on link '\u30de\u30b9\u30bf'
+step 6: Click on link '\u898b\u7a4d\u9805\u76ee\u30de\u30b9\u30bf' -> Navigate to page 'estimate-items'
+step 7: Click on link 'Billing Items' -> Navigate to page 'billing-items'
+step 8: Click on span
+step 9: Take full page screenshot as checkpoint",High
+21,Verify Project Comparisons at Frequent Projects,"Navigate to the frequent projects page and perform various actions such as editing, saving, and verifying comparisons. Ensure that the frequent project comparisons are displayed correctly.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
 step 2: Login
 step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
 step 4: Click on link '\u6848\u4ef6\u4e00\u89a7' -> Navigate to page 'spot-projects'
@@ -178,20 +254,7 @@ step 11: Click on select 'comparisons-section'
 step 12: Click on select 'comparisons-section'
 step 13: Click on button '\u4fdd\u5b58' -> Navigate to page 'frequent-project-comparisons/*/*'
 step 14: Take full page screenshot as checkpoint",High
-15,Verify Page Error,"Navigate to the page frequent projects, login, and perform a series of clicks. Finally, verify the page error.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
-step 2: Login
-step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
-step 4: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
-step 5: Click on link '\u5834\u6240\u30de\u30b9\u30bf' -> Navigate to page 'places'
-step 6: Click on button '\u30a8\u30af\u30b9\u30dd\u30fc\u30c8\uff08Excel\uff09'
-step 7: Click on link
-step 8: Click on button '\u30a4\u30f3\u30dd\u30fc\u30c8\uff08Excel\uff09'
-step 9: Click on header
-step 10: Click on input field
-step 11: Click on button ' \u53d6\u8fbc' -> Navigate to page 'error'
-step 12: Click on link '\u30de\u30b9\u30bf'
-step 13: Take full page screenshot as checkpoint",High
-13,Verify Page Frequent Projects,"Navigate to the page frequent projects, login, and perform a series of clicks and inputs. Finally, verify the page frequent projects.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+20,Verify Comparisons in Frequent Projects,Navigate to the frequent projects page and log in. Access the comparisons section and perform certain actions to verify the presence of comparisons.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
 step 2: Login
 step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
 step 4: Click on link '\u6848\u4ef6\u4e00\u89a7' -> Navigate to page 'spot-projects'
@@ -205,7 +268,7 @@ step 11: Click on select 'comparisons-section'
 step 12: Click on select 'comparisons-section'
 step 13: Click on button '\u30ad\u30e3\u30f3\u30bb\u30eb'
 step 14: Take full page screenshot as checkpoint",High
-12,Verify Page Frequent Project Suppliers,"Navigate to the page frequent projects, login, and perform a series of clicks. Finally, verify the page frequent project suppliers.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+19,Verify Suppliers in Frequent Project,Navigate to the frequent projects page and log in. Access the suppliers section and perform certain actions to verify the presence of suppliers.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
 step 2: Login
 step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
 step 4: Click on link '\u6848\u4ef6\u4e00\u89a7' -> Navigate to page 'spot-projects'
@@ -220,50 +283,56 @@ step 12: Click on button ' \u8ffd\u52a0'
 step 13: Click on button
 step 14: Click on button '\u78ba\u5b9a'
 step 15: Take full page screenshot as checkpoint",High
-16,Verify Page Billing Items,"Navigate to the page frequent projects, login, and perform a series of clicks and inputs. Finally, verify the page billing items.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+22,Verify Selection Items at Billing Items,Navigate to the frequent projects page and access the selection items. Verify the displayed selection items at the billing section.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
 step 2: Login
 step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
-step 4: Click on link '\u8acb\u6c42\u66f8\u7ba1\u7406' -> Navigate to page 'bills'
-step 5: Click on link '\u30de\u30b9\u30bf'
-step 6: Click on link '\u898b\u7a4d\u9805\u76ee\u30de\u30b9\u30bf' -> Navigate to page 'estimate-items'
+step 4: Click on link 'Estimate Items' -> Navigate to page 'estimate-items'
+step 5: Click on link '\u8acb\u6c42\u9805\u76ee\u30de\u30b9\u30bf' -> Navigate to page 'billing-items'
+step 6: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
+step 7: Click on div
+step 8: Click on input field 'flexSwitchCheckChecked-3a0f452e-48ce-24a9-6f2f-e08f3fc704fa'
+step 9: Take full page screenshot as checkpoint",High
+23,Verify Selection Items at Billing Items,Navigate to the frequent projects page and access the selection items. Verify the displayed selection items at the billing section.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link 'Estimate Items' -> Navigate to page 'estimate-items'
+step 5: Click on link '\u8acb\u6c42\u9805\u76ee\u30de\u30b9\u30bf' -> Navigate to page 'billing-items'
+step 6: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
 step 7: Click on button ' \u4f5c\u6210'
-step 8: Click on input field 'estimate-item-name'
-step 9: Click on select 'estimate-item-group-unit'
-step 10: Click on select 'estimate-item-group-unit'
-step 11: Click on select 'estimate-item-group-supplierId'
-step 12: Click on select 'estimate-item-group-supplierId'
-step 13: Click on button ' \u4fdd\u5b58'
-step 14: Click on input field 'estimate-item-name'
-step 15: Enter input value in input field 'estimate-item-name'
-step 16: Click on button ' \u4fdd\u5b58'
-step 17: Click on link '\u8acb\u6c42\u9805\u76ee\u30de\u30b9\u30bf' -> Navigate to page 'billing-items'
-step 18: Click on button ' \u4f5c\u6210'
-step 19: Click on input field 'billing-item-name'
-step 20: Click on select 'billing-item-group-supplierId'
-step 21: Click on select 'billing-item-group-supplierId'
-step 22: Click on button ' \u4fdd\u5b58'
-step 23: Take full page screenshot as checkpoint",High
-17,Verify Page Ports,"Navigate to the page frequent projects, login, and perform a series of clicks. Finally, verify the page ports.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 8: Take full page screenshot as checkpoint",High
+24,Verify Project Edit at Frequent Projects,Navigate to the frequent projects page and edit the project details. Save the changes and verify that the project edit is successful.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u6848\u4ef6\u4e00\u89a7' -> Navigate to page 'spot-projects'
+step 5: Click on link '\u898b\u7a4d\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u521d\u671f\u9805\u76ee\u8a2d\u5b9a' -> Navigate to page 'spot-template-default-items'
+step 6: Click on link '\u5b9a\u671f\u5165\u672d' -> Navigate to page 'frequent-projects'
+step 7: Click on div  -> Navigate to page 'frequent-projects/*'
+step 8: Click on button 'Edit' -> Navigate to page 'frequent-projects/edit/*'
+step 9: Click on div
+step 10: Enter input value in input field 'project-name'
+step 11: Click on button 'Save'
+step 12: Click on button 'Save'
+step 13: Click on input field
+step 14: Click on div
+step 15: Click on input field
+step 16: Click on div
+step 17: Click on input field
+step 18: Click on div
+step 19: Click on form 'form-basic-info'
+step 20: Click on input field
+step 21: Take full page screenshot as checkpoint",High
+25,Verify Ports at Places,Navigate to the frequent projects page and access the ports. Verify the displayed ports at the places section.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
 step 2: Login
 step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
 step 4: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
 step 5: Click on link '\u5834\u6240\u30de\u30b9\u30bf' -> Navigate to page 'places'
-step 6: Click on link '\u6e2f\u30de\u30b9\u30bf' -> Navigate to page 'ports'
+step 6: Click on link 'Ports' -> Navigate to page 'ports'
 step 7: Click on button 'dropdownBasic1'
 step 8: Click on button 'Excel\u304b\u3089\u30a4\u30f3\u30dd\u30fc\u30c8'
 step 9: Click on label
 step 10: Click on input field
 step 11: Take full page screenshot as checkpoint",High
-18,Verify Page Suppliers,"Navigate to the page frequent projects, login, and perform a series of clicks. Finally, verify the page suppliers.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
-step 2: Login
-step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
-step 4: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
-step 5: Click on link '\u5834\u6240\u30de\u30b9\u30bf' -> Navigate to page 'places'
-step 6: Click on link '\u30ec\u30fc\u30f3\u30de\u30b9\u30bf' -> Navigate to page 'lanes'
-step 7: Click on link '\u30e1\u30fc\u30eb\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8' -> Navigate to page 'mail-templates'
-step 8: Click on link '\u7269\u6d41\u4f01\u696d\u30de\u30b9\u30bf' -> Navigate to page 'suppliers'
-step 9: Take full page screenshot as checkpoint",High
-19,Verify Page Frequent Projects,"Navigate to the page frequent projects, login, and perform a series of clicks. Finally, verify the page frequent projects.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+26,Verify Frequent Projects at Spot Projects,Navigate to the frequent projects page from the spot projects and verify the frequent projects.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
 step 2: Login
 step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
 step 4: Click on link '\u6848\u4ef6\u4e00\u89a7' -> Navigate to page 'spot-projects'
@@ -273,16 +342,35 @@ step 7: Click on div  -> Navigate to page 'frequent-projects/*'
 step 8: Click on button 'ngb-nav-19'
 step 9: Click on button ' \u8ffd\u52a0'
 step 10: Take full page screenshot as checkpoint",High
-20,Verify Page Bills,"Navigate to the page frequent projects, login, and perform a series of clicks. Finally, verify the page bills.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+27,Verify Master Settings at Frequent Projects,Navigate to the frequent projects page and access the master settings. Verify the master settings at the frequent projects.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
 step 2: Login
 step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
 step 4: Click on link '\u6848\u4ef6\u4e00\u89a7' -> Navigate to page 'spot-projects'
 step 5: Click on link '\u898b\u7a4d\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u521d\u671f\u9805\u76ee\u8a2d\u5b9a' -> Navigate to page 'spot-template-default-items'
 step 6: Click on link '\u5b9a\u671f\u5165\u672d' -> Navigate to page 'frequent-projects'
-step 7: Click on link '\u8acb\u6c42\u66f8\u7ba1\u7406' -> Navigate to page 'bills'
-step 8: Click on td  -> Navigate to page 'bills/*'
+step 7: Click on div  -> Navigate to page 'frequent-projects/*'
+step 8: Click on link 'Master settings'
 step 9: Take full page screenshot as checkpoint",High
-21,Verify Page Places after Logging in at Page Frequent Projects,Navigate to the frequent projects page and log in. Click on various hyperlinks and buttons to access different pages and objects. Verify the page places after the actions.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+28,Verify Places at Selection Items,Navigate to the frequent projects page and access the places. Verify the displayed places at the selection items section.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
+step 5: Click on link '\u5834\u6240\u30de\u30b9\u30bf' -> Navigate to page 'places'
+step 6: Click on button '\u30a4\u30f3\u30dd\u30fc\u30c8\uff08Excel\uff09'
+step 7: Click on header
+step 8: Click on input field
+step 9: Take full page screenshot as checkpoint",High
+30,Verify Ports at Selection Items,Navigate to the frequent projects page and access the ports. Perform actions such as deleting and confirming the deletion. Verify the ports at the selection items section.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
+step 5: Click on link '\u5834\u6240\u30de\u30b9\u30bf' -> Navigate to page 'places'
+step 6: Click on link 'Ports' -> Navigate to page 'ports'
+step 7: Click on input field
+step 8: Click on button 'Delete'
+step 9: Click on button 'confirm' -> Navigate to page 'ports/*'
+step 10: Take full page screenshot as checkpoint",High
+29,Verify Places at Selection Items,Navigate to the frequent projects page and access the places. Verify the displayed places at the selection items section.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
 step 2: Login
 step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
 step 4: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
@@ -292,66 +380,95 @@ step 7: Click on button '\u30a4\u30f3\u30dd\u30fc\u30c8\uff08Excel\uff09'
 step 8: Click on div
 step 9: Click on input field
 step 10: Take full page screenshot as checkpoint",High
-22,Verify Page Estimate Items after Logging in at Page Frequent Projects,Navigate to the frequent projects page and log in. Click on hyperlinks to access different pages. Verify the page estimate items after the actions.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+31,Verify Frequent Projects at Spot Projects,Navigate to the frequent projects page from the spot projects and perform actions such as creating and naming a session. Verify the frequent projects.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
 step 2: Login
 step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
-step 4: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
-step 5: Click on link '\u5834\u6240\u30de\u30b9\u30bf' -> Navigate to page 'places'
-step 6: Click on link '\u6e2f\u30de\u30b9\u30bf' -> Navigate to page 'ports'
-step 7: Click on link '\u898b\u7a4d\u9805\u76ee\u30de\u30b9\u30bf' -> Navigate to page 'estimate-items'
-step 8: Take full page screenshot as checkpoint",High
-23,Verify Page Places after Logging in at Page Frequent Projects,Navigate to the frequent projects page and log in. Click on various hyperlinks to access different pages and objects. Verify the page places after the actions.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 4: Click on link '\u6848\u4ef6\u4e00\u89a7' -> Navigate to page 'spot-projects'
+step 5: Click on link '\u898b\u7a4d\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u521d\u671f\u9805\u76ee\u8a2d\u5b9a' -> Navigate to page 'spot-template-default-items'
+step 6: Click on link '\u5b9a\u671f\u5165\u672d' -> Navigate to page 'frequent-projects'
+step 7: Click on div  -> Navigate to page 'frequent-projects/*'
+step 8: Click on button '\u30b7\u30fc\u30c8\u306e\u8ffd\u52a0'
+step 9: Click on input field 'frequent-project-session-name'
+step 10: Click on button ' \u4fdd\u5b58'
+step 11: Click on button '\u30b7\u30fc\u30c8\u306e\u8ffd\u52a0'
+step 12: Click on input field 'frequent-project-session-name'
+step 13: Click on button ' \u4fdd\u5b58'
+step 14: Take full page screenshot as checkpoint",High
+32,Verify Bills at Frequent Projects,Navigate to the frequent projects page and access the bills. Verify the bills at the frequent projects.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u6848\u4ef6\u4e00\u89a7' -> Navigate to page 'spot-projects'
+step 5: Click on link '\u898b\u7a4d\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u521d\u671f\u9805\u76ee\u8a2d\u5b9a' -> Navigate to page 'spot-template-default-items'
+step 6: Click on link '\u5b9a\u671f\u5165\u672d' -> Navigate to page 'frequent-projects'
+step 7: Click on link '\u8acb\u6c42\u66f8\u7ba1\u7406' -> Navigate to page 'bills'
+step 8: Click on td  -> Navigate to page 'bills/*'
+step 9: Take full page screenshot as checkpoint",High
+33,Verify Places at Selection Items,Navigate to the frequent projects page and access the places. Verify the displayed places at the selection items section.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
 step 2: Login
 step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
 step 4: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
 step 5: Click on link '\u5834\u6240\u30de\u30b9\u30bf' -> Navigate to page 'places'
 step 6: Click on input field 'flexSwitchCheckChecked-3a115228-f2d8-6320-e91a-81ea435558e3'
-step 7: Take full page screenshot as checkpoint",Medium
-24,Verify Page Selection Items after Logging in at Page Frequent Projects,Navigate to the frequent projects page and log in. Click on hyperlinks to access different pages. Verify the page selection items after the actions.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
-step 2: Login
-step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
-step 4: Click on link '\u8acb\u6c42\u66f8\u7ba1\u7406' -> Navigate to page 'bills'
-step 5: Click on link '\u30de\u30b9\u30bf'
-step 6: Click on link '\u30de\u30b9\u30bf'
-step 7: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
-step 8: Take full page screenshot as checkpoint",Medium
-25,Verify Page Frequent Projects after Logging in at Page Frequent Projects,"Navigate to the frequent projects page and log in. Click on hyperlinks, buttons, and input fields to perform various actions. Verify the page frequent projects after the actions.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 7: Take full page screenshot as checkpoint",High
+34,Verify Frequent Projects at Spot Projects,Navigate to the frequent projects page from the spot projects and verify the frequent projects.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
 step 2: Login
 step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
 step 4: Click on link '\u6848\u4ef6\u4e00\u89a7' -> Navigate to page 'spot-projects'
 step 5: Click on link '\u898b\u7a4d\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u521d\u671f\u9805\u76ee\u8a2d\u5b9a' -> Navigate to page 'spot-template-default-items'
 step 6: Click on link '\u5b9a\u671f\u5165\u672d' -> Navigate to page 'frequent-projects'
 step 7: Click on button ' \u65b0\u898f\u4f5c\u6210'
-step 8: Click on div  -> Navigate to page 'frequent-projects/*'
-step 9: Click on button '\u30b7\u30fc\u30c8\u306e\u8ffd\u52a0'
-step 10: Click on input field 'frequent-project-session-name'
-step 11: Click on button ' \u4fdd\u5b58'
-step 12: Click on button '\u30b7\u30fc\u30c8\u306e\u8ffd\u52a0'
-step 13: Click on input field 'frequent-project-session-name'
-step 14: Click on button ' \u4fdd\u5b58'
-step 15: Take full page screenshot as checkpoint",Medium
-26,Verify Page Bills after Logging in at Page Frequent Projects,Navigate to the frequent projects page and log in. Click on hyperlinks and objects to access different pages. Verify the page bills after the actions.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 8: Take full page screenshot as checkpoint",Medium
+35,Verify Billing Items at Frequent Projects,Navigate to the frequent projects page and access the billing items. Verify the billing items at the frequent projects.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
 step 2: Login
-step 3: Click on link '\u8acb\u6c42\u66f8\u7ba1\u7406' -> Navigate to page 'bills'
-step 4: Click on div  -> Navigate to page 'bills/*'
-step 5: Take full page screenshot as checkpoint",Low
-27,Verify Page Bills after Logging in at Page Frequent Projects,Navigate to the frequent projects page and log in. Click on various hyperlinks to access different pages. Verify the page bills after the actions.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link 'Estimate Items' -> Navigate to page 'estimate-items'
+step 5: Click on link '\u8acb\u6c42\u9805\u76ee\u30de\u30b9\u30bf' -> Navigate to page 'billing-items'
+step 6: Click on button ' \u4f5c\u6210'
+step 7: Take full page screenshot as checkpoint",Medium
+36,Verify Bills Notification at Billing Items,Navigate to the frequent projects page and access the bills. Perform actions such as creating and naming a session. Verify the bills notification at the billing items.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
 step 2: Login
-step 3: Click on link '\u8acb\u6c42\u66f8\u7ba1\u7406' -> Navigate to page 'bills'
-step 4: Click on link '\u5909\u63db\u4e2d: 2\u4ef6'
-step 5: Take full page screenshot as checkpoint",Trivial
-28,Verify Page Spot Project Items after Logging in at Page Frequent Projects,Navigate to the frequent projects page and log in. Click on hyperlinks to access different pages. Verify the page spot project items after the actions.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u8acb\u6c42\u66f8\u7ba1\u7406' -> Navigate to page 'bills'
+step 5: Click on link '\u30de\u30b9\u30bf'
+step 6: Click on button '\u500b\u5225\u8acb\u6c42\u66f8\u306e\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9'
+step 7: Click on label
+step 8: Click on input field
+step 9: Click on button ' \u6b21\u3078' -> Navigate to page 'bills/notification'
+step 10: Take full page screenshot as checkpoint",Low
+37,Verify Estimate Items at Billing Items,Navigate to the frequent projects page and access the estimate items. Perform actions such as creating and naming a session. Verify the estimate items at the billing items.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link 'Estimate Items' -> Navigate to page 'estimate-items'
+step 5: Click on button ' New Estimate Item'
+step 6: Click on input field 'estimate-item-name'
+step 7: Enter input value in input field 'estimate-item-name'
+step 8: Click on select 'estimate-item-group-unit'
+step 9: Click on select 'estimate-item-group-unit'
+step 10: Click on select 'estimate-item-group-supplierId'
+step 11: Click on select 'estimate-item-group-supplierId'
+step 12: Click on button ' Save'
+step 13: Click on button ' New Estimate Item Group'
+step 14: Click on input field 'estimate-item-group-name'
+step 15: Enter input value in input field 'estimate-item-group-name'
+step 16: Click on select 'estimate-item-group-unit'
+step 17: Click on select 'estimate-item-group-unit'
+step 18: Click on select 'estimate-item-group-tag'
+step 19: Click on select 'estimate-item-group-tag'
+step 20: Click on select 'estimate-item-group-category'
+step 21: Click on select 'estimate-item-group-category'
+step 22: Click on select 'estimate-item-group-fare-type'
+step 23: Click on select 'estimate-item-group-fare-type'
+step 24: Click on select 'estimate-item-group-container-size'
+step 25: Click on select 'estimate-item-group-container-size'
+step 26: Click on select 'estimate-item-group-container-type'
+step 27: Click on select 'estimate-item-group-container-type'
+step 28: Click on select 'estimate-item-group-type'
+step 29: Click on select 'estimate-item-group-type'
+step 30: Take full page screenshot as checkpoint",Trivial
+38,Verify Spot Project Items at Spot Projects,Navigate to the frequent projects page from the spot projects and verify the spot project items.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
 step 2: Login
 step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
 step 4: Click on link '\u6848\u4ef6\u4e00\u89a7' -> Navigate to page 'spot-projects'
 step 5: Click on link '\u898b\u7a4d\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u521d\u671f\u9805\u76ee\u8a2d\u5b9a' -> Navigate to page 'spot-template-default-items'
 step 6: Click on link '\u30b9\u30dd\u30c3\u30c8\u6848\u4ef6\u521d\u671f\u9805\u76ee\u8a2d\u5b9a' -> Navigate to page 'spot-project-items'
 step 7: Take full page screenshot as checkpoint",Trivial
-29,Verify Page Bills Notification after Logging in at Page Frequent Projects,"Navigate to the frequent projects page and log in. Click on hyperlinks, buttons, and input fields to perform various actions. Verify the page bills notification after the actions.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
-step 2: Login
-step 3: Click on link '\u8acb\u6c42\u66f8\u7ba1\u7406' -> Navigate to page 'bills'
-step 4: Click on button '\u500b\u5225\u8acb\u6c42\u66f8\u306e\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9'
-step 5: Click on header
-step 6: Click on input field
-step 7: Click on button ' \u6b21\u3078' -> Navigate to page 'bills/notification'
-step 8: Take full page screenshot as checkpoint",Trivial

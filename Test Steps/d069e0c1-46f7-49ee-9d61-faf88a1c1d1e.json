@@ -1,0 +1,18 @@
+{
+    "steps": [
+        "step 1: Navigate to https://att.app.portx-demo.com/frequent-projects",
+        "step 2: Login",
+        "step 3: Click on link '\\u30b9\\u30dd\\u30c3\\u30c8\\u898b\\u7a4d'",
+        "step 4: Click on link '\\u6848\\u4ef6\\u4e00\\u89a7' -> Navigate to page 'spot-projects'",
+        "step 5: Click on link '\\u898b\\u7a4d\\u30c6\\u30f3\\u30d7\\u30ec\\u30fc\\u30c8\\u521d\\u671f\\u9805\\u76ee\\u8a2d\\u5b9a' -> Navigate to page 'spot-template-default-items'",
+        "step 6: Click on link '\\u5b9a\\u671f\\u5165\\u672d' -> Navigate to page 'frequent-projects'",
+        "step 7: Click on link 'Master settings'",
+        "step 8: Click on link 'Administration'",
+        "step 9: Click on link 'Master settings'",
+        "step 10: Click on div  -> Navigate to page 'frequent-projects/*'",
+        "step 11: Click on link 'Estimate Items' -> Navigate to page 'estimate-items'",
+        "step 12: Click on div",
+        "step 13: Click on button ' New Estimate Item'",
+        "step 14: Take full page screenshot as checkpoint"
+    ]
+}
