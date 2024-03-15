@@ -1,0 +1,27 @@
+{
+    "steps": [
+        "step 1: Navigate to https://att.app.portx-demo.com/frequent-projects",
+        "step 2: Login",
+        "step 3: Click on link '\\u30b9\\u30dd\\u30c3\\u30c8\\u898b\\u7a4d'",
+        "step 4: Click on link '\\u8acb\\u6c42\\u66f8\\u7ba1\\u7406' -> Navigate to page 'bills'",
+        "step 5: Click on link '\\u30de\\u30b9\\u30bf'",
+        "step 6: Click on link '\\u898b\\u7a4d\\u9805\\u76ee\\u30de\\u30b9\\u30bf' -> Navigate to page 'estimate-items'",
+        "step 7: Click on button ' \\u4f5c\\u6210'",
+        "step 8: Click on input field 'estimate-item-name'",
+        "step 9: Click on select 'estimate-item-group-unit'",
+        "step 10: Click on select 'estimate-item-group-unit'",
+        "step 11: Click on select 'estimate-item-group-supplierId'",
+        "step 12: Click on select 'estimate-item-group-supplierId'",
+        "step 13: Click on button ' \\u4fdd\\u5b58'",
+        "step 14: Click on input field 'estimate-item-name'",
+        "step 15: Enter input value in input field 'estimate-item-name'",
+        "step 16: Click on button ' \\u4fdd\\u5b58'",
+        "step 17: Click on link '\\u8acb\\u6c42\\u9805\\u76ee\\u30de\\u30b9\\u30bf' -> Navigate to page 'billing-items'",
+        "step 18: Click on button ' \\u4f5c\\u6210'",
+        "step 19: Click on input field 'billing-item-name'",
+        "step 20: Click on select 'billing-item-group-supplierId'",
+        "step 21: Click on select 'billing-item-group-supplierId'",
+        "step 22: Click on button ' \\u4fdd\\u5b58'",
+        "step 23: Take full page screenshot as checkpoint"
+    ]
+}

@@ -1,561 +1,357 @@
 Flow ID,Name,Description,Test Steps,Flow Priority
-0,Verify Page Suppliers,Navigate to pageFrequentProjects and perform a series of actions. Verify the page for suppliers.,"step 1: Navigate to Page frequent-projects
-step 2: At Page frequent-projects, click on hyperlink
-step 3: At Page frequent-projects, click on hyperlink > navigate to Page billing-items
-step 4: At Page billing-items, click on hyperlink > navigate to Page estimate-items
-step 5: At Page estimate-items, click on hyperlink > navigate to Page bills
-step 6: At Page bills, click on hyperlink
-step 7: At Page bills, click on hyperlink > navigate to Page lanes
-step 8: At Page lanes, click on button dropdownbasic1
-step 9: At Page lanes, click on button excel
-step 10: At Page lanes, click on h5 object
-step 11: At Page lanes, click on input object
-step 12: At Page lanes, click on button
-step 13: At Page lanes, click on div object
-step 14: At Page lanes, click on hyperlink > navigate to Page bills
-step 15: At Page bills, click on hyperlink > navigate to Page frequent-projects
-step 16: At Page frequent-projects, click on div object
-step 17: At Page frequent-projects, click on button ngb nav 26
-step 18: At Page frequent-projects, click on hyperlink
-step 19: At Page frequent-projects, click on hyperlink > navigate to Page suppliers
-step 20: At Page suppliers, click on td object
-step 21: At Page suppliers, click on button
-step 22: At Page suppliers, click on label object
-step 23: At Page suppliers, click on input user supplier name
-step 24: At Page suppliers, input on input user supplier name
-step 25: At Page suppliers, click on input user supplier email
-step 26: At Page suppliers, click on textarea user supplier remark
-step 27: At Page suppliers, click on ngb object
-step 28: At Page suppliers, click on button
-step 29: At Page suppliers, hover on div object
-step 30: At Page suppliers, hover on tr object
-step 31: At Page suppliers, click on button object
-step 32: At Page suppliers, click on input supplier name
-step 33: At Page suppliers, input on input supplier name
-step 34: At Page suppliers, click on button
-step 35: Add visual checkpoint at Page suppliers",High
-10,Verify Page Frequent Projects,Navigate to pageFrequentProjects and perform a series of actions. Verify the frequent projects page.,"step 1: Navigate to Page frequent-projects
-step 2: At Page frequent-projects, click on hyperlink
-step 3: At Page frequent-projects, click on hyperlink > navigate to Page billing-items
-step 4: At Page billing-items, click on hyperlink > navigate to Page estimate-items
-step 5: At Page estimate-items, click on hyperlink > navigate to Page bills
-step 6: At Page bills, click on hyperlink
-step 7: At Page bills, click on hyperlink > navigate to Page lanes
-step 8: At Page lanes, click on button dropdownbasic1
-step 9: At Page lanes, click on button excel
-step 10: At Page lanes, click on h5 object
-step 11: At Page lanes, click on input object
-step 12: At Page lanes, click on button
-step 13: At Page lanes, click on div object
-step 14: At Page lanes, click on hyperlink > navigate to Page bills
-step 15: At Page bills, click on hyperlink > navigate to Page frequent-projects
-step 16: At Page frequent-projects, click on div object
-step 17: At Page frequent-projects, click on button ngb nav 26
-step 18: At Page frequent-projects, click on input object
-step 19: At Page frequent-projects, click on button
-step 20: Add visual checkpoint at Page frequent-projects",High
-1,Verify Page Frequent Project Section Results,Navigate to pageFrequentProjects and perform a series of actions. Verify the section results for frequent projects.,"step 1: Navigate to Page frequent-projects
-step 2: At Page frequent-projects, click on hyperlink
-step 3: At Page frequent-projects, click on hyperlink > navigate to Page billing-items
-step 4: At Page billing-items, click on hyperlink > navigate to Page estimate-items
-step 5: At Page estimate-items, click on hyperlink > navigate to Page bills
-step 6: At Page bills, click on hyperlink
-step 7: At Page bills, click on hyperlink > navigate to Page lanes
-step 8: At Page lanes, click on button dropdownbasic1
-step 9: At Page lanes, click on button excel
-step 10: At Page lanes, click on h5 object
-step 11: At Page lanes, click on input object
-step 12: At Page lanes, click on button
-step 13: At Page lanes, click on div object
-step 14: At Page lanes, click on hyperlink > navigate to Page bills
-step 15: At Page bills, click on hyperlink > navigate to Page frequent-projects
-step 16: At Page frequent-projects, click on div object
-step 17: At Page frequent-projects, click on button > navigate to Page frequent-project-section-results
-step 18: At Page frequent-project-section-results, click on button
-step 19: At Page frequent-project-section-results, click on select comparison chart
-step 20: At Page frequent-project-section-results, click on button
-step 21: At Page frequent-project-section-results, click on input object
-step 22: At Page frequent-project-section-results, click on button
-step 23: Add visual checkpoint at Page frequent-project-section-results",High
-16,Verify Page Estimate Items,Navigate to pageFrequentProjects and perform a series of actions. Verify the estimate items page.,"step 1: Navigate to Page frequent-projects
-step 2: At Page frequent-projects, click on button stop
-step 3: At Page frequent-projects, click on hyperlink
-step 4: At Page frequent-projects, click on hyperlink > navigate to Page lanes
-step 5: At Page lanes, click on hyperlink > navigate to Page suppliers
-step 6: At Page suppliers, click on hyperlink > navigate to Page mail-templates
-step 7: At Page mail-templates, click on hyperlink
-step 8: At Page mail-templates, click on hyperlink > navigate to Page bills
-step 9: At Page bills, click on hyperlink > navigate to Page frequent-projects
-step 10: At Page frequent-projects, click on hyperlink
-step 11: At Page frequent-projects, click on hyperlink > navigate to Page estimate-items
-step 12: At Page estimate-items, click on button
-step 13: Add visual checkpoint at Page estimate-items",High
-15,Verify Page Bills,Navigate to pageFrequentProjects and perform a series of actions. Verify the bills page.,"step 1: Navigate to Page frequent-projects
-step 2: At Page frequent-projects, click on button stop
-step 3: At Page frequent-projects, click on hyperlink
-step 4: At Page frequent-projects, click on hyperlink > navigate to Page lanes
-step 5: At Page lanes, click on hyperlink > navigate to Page suppliers
-step 6: At Page suppliers, click on hyperlink > navigate to Page mail-templates
-step 7: At Page mail-templates, click on hyperlink
-step 8: At Page mail-templates, click on hyperlink > navigate to Page bills
-step 9: At Page bills, click on hyperlink > navigate to Page frequent-projects
-step 10: At Page frequent-projects, click on div object
-step 11: At Page frequent-projects, click on button > navigate to Page frequent-projects edit
-step 12: At Page frequent-projects edit, click on button
-step 13: At Page frequent-projects edit, click on hyperlink > navigate to Page bills
-step 14: Add visual checkpoint at Page bills",High
-14,Verify Page Frequent Projects Edit,Navigate to pageFrequentProjects and perform a series of actions. Verify the edit section for frequent projects.,"step 1: Navigate to Page frequent-projects
-step 2: At Page frequent-projects, click on button stop
-step 3: At Page frequent-projects, click on hyperlink
-step 4: At Page frequent-projects, click on hyperlink > navigate to Page lanes
-step 5: At Page lanes, click on hyperlink > navigate to Page suppliers
-step 6: At Page suppliers, click on hyperlink > navigate to Page mail-templates
-step 7: At Page mail-templates, click on hyperlink
-step 8: At Page mail-templates, click on hyperlink > navigate to Page bills
-step 9: At Page bills, click on hyperlink > navigate to Page frequent-projects
-step 10: At Page frequent-projects, click on div object
-step 11: At Page frequent-projects, click on button > navigate to Page frequent-projects edit
-step 12: At Page frequent-projects edit, click on div lpx wrapper
-step 13: At Page frequent-projects edit, input on input project name
-step 14: At Page frequent-projects edit, click on div object
-step 15: At Page frequent-projects edit, click on input object
-step 16: At Page frequent-projects edit, click on div object
-step 17: At Page frequent-projects edit, hover on div object
-step 18: At Page frequent-projects edit, click on input object
-step 19: Add visual checkpoint at Page frequent-projects edit",High
-13,Verify Page Suppliers,Navigate to pageFrequentProjects and perform a series of actions. Verify the suppliers page.,"step 1: Navigate to Page frequent-projects
-step 2: At Page frequent-projects, click on button stop
-step 3: At Page frequent-projects, click on hyperlink
-step 4: At Page frequent-projects, click on hyperlink > navigate to Page lanes
-step 5: At Page lanes, click on div object
-step 6: At Page lanes, click on hyperlink > navigate to Page billing-items
-step 7: At Page billing-items, click on button
-step 8: At Page billing-items, click on input billing item group name
-step 9: At Page billing-items, click on select billing item group category
-step 10: At Page billing-items, click on select billing item group category
-step 11: At Page billing-items, click on button
-step 12: At Page billing-items, click on hyperlink > navigate to Page selection-items
-step 13: At Page selection-items, click on hyperlink > navigate to Page suppliers
-step 14: At Page suppliers, click on button
-step 15: At Page suppliers, click on label object
-step 16: At Page suppliers, click on input supplier name
-step 17: At Page suppliers, click on div abp modal header
-step 18: At Page suppliers, click on input supplier name
-step 19: At Page suppliers, hover on ng object
-step 20: At Page suppliers, click on div object
-step 21: At Page suppliers, click on span object
-step 22: At Page suppliers, click on button
-step 23: At Page suppliers, click on button
-step 24: Add visual checkpoint at Page suppliers",High
-12,Verify Page Suppliers,Navigate to pageFrequentProjects and perform a series of actions. Verify the suppliers page.,"step 1: Navigate to Page frequent-projects
-step 2: At Page frequent-projects, click on button stop
-step 3: At Page frequent-projects, click on hyperlink
-step 4: At Page frequent-projects, click on hyperlink > navigate to Page lanes
-step 5: At Page lanes, click on div object
-step 6: At Page lanes, click on hyperlink > navigate to Page billing-items
-step 7: At Page billing-items, click on button
-step 8: At Page billing-items, click on input billing item group name
-step 9: At Page billing-items, click on select billing item group category
-step 10: At Page billing-items, click on select billing item group category
-step 11: At Page billing-items, click on button
-step 12: At Page billing-items, click on hyperlink > navigate to Page selection-items
-step 13: At Page selection-items, click on hyperlink > navigate to Page suppliers
-step 14: At Page suppliers, click on button
-step 15: At Page suppliers, click on label object
-step 16: At Page suppliers, click on input supplier name
-step 17: At Page suppliers, click on div abp modal header
-step 18: At Page suppliers, click on input supplier name
-step 19: At Page suppliers, hover on ng object
-step 20: At Page suppliers, click on div object
-step 21: At Page suppliers, click on span object
-step 22: At Page suppliers, click on button
-step 23: At Page suppliers, click on hyperlink > navigate to Page frequent-projects
-step 24: Add visual checkpoint at Page frequent-projects",High
-11,Verify Page Frequent Projects,Navigate to pageFrequentProjects and perform a series of actions. Verify the frequent projects page.,"step 1: Navigate to Page frequent-projects
-step 2: At Page frequent-projects, click on hyperlink
-step 3: At Page frequent-projects, click on hyperlink > navigate to Page billing-items
-step 4: At Page billing-items, click on hyperlink > navigate to Page estimate-items
-step 5: At Page estimate-items, click on hyperlink > navigate to Page bills
-step 6: At Page bills, click on hyperlink
-step 7: At Page bills, click on hyperlink > navigate to Page lanes
-step 8: At Page lanes, click on button dropdownbasic1
-step 9: At Page lanes, click on button excel
-step 10: At Page lanes, click on h5 object
-step 11: At Page lanes, click on input object
-step 12: At Page lanes, click on button
-step 13: At Page lanes, click on div object
-step 14: At Page lanes, click on hyperlink > navigate to Page bills
-step 15: At Page bills, click on hyperlink > navigate to Page frequent-projects
-step 16: At Page frequent-projects, click on div object
-step 17: At Page frequent-projects, click on button ngb nav 30
-step 18: At Page frequent-projects, click on button
-step 19: At Page frequent-projects, click on input comparisons name
-step 20: At Page frequent-projects, click on select comparisons section
-step 21: At Page frequent-projects, click on select comparisons section
-step 22: At Page frequent-projects, click on input object
-step 23: At Page frequent-projects, click on input object
-step 24: Add visual checkpoint at Page frequent-projects",High
-17,Verify Page Bills,Navigate to pageFrequentProjects and perform a series of actions. Verify the bills page.,"step 1: Navigate to Page frequent-projects
-step 2: At Page frequent-projects, click on button stop
-step 3: At Page frequent-projects, click on hyperlink
-step 4: At Page frequent-projects, click on hyperlink > navigate to Page lanes
-step 5: At Page lanes, click on hyperlink > navigate to Page suppliers
-step 6: At Page suppliers, click on hyperlink > navigate to Page mail-templates
-step 7: At Page mail-templates, click on hyperlink
-step 8: At Page mail-templates, click on hyperlink > navigate to Page bills
-step 9: At Page bills, click on hyperlink > navigate to Page frequent-projects
-step 10: At Page frequent-projects, click on hyperlink > navigate to Page bills
-step 11: At Page bills, click on td object
-step 12: Add visual checkpoint at Page bills",High
-9,Verify Page Frequent Projects,Navigate to pageFrequentProjects and perform a series of actions. Verify the frequent projects page.,"step 1: Navigate to Page frequent-projects
-step 2: At Page frequent-projects, click on hyperlink
-step 3: At Page frequent-projects, click on hyperlink > navigate to Page billing-items
-step 4: At Page billing-items, click on hyperlink > navigate to Page estimate-items
-step 5: At Page estimate-items, click on hyperlink > navigate to Page bills
-step 6: At Page bills, click on hyperlink
-step 7: At Page bills, click on hyperlink > navigate to Page lanes
-step 8: At Page lanes, click on button dropdownbasic1
-step 9: At Page lanes, click on button excel
-step 10: At Page lanes, click on h5 object
-step 11: At Page lanes, click on input object
-step 12: At Page lanes, click on button
-step 13: At Page lanes, click on div object
-step 14: At Page lanes, click on hyperlink > navigate to Page bills
-step 15: At Page bills, click on hyperlink > navigate to Page frequent-projects
-step 16: At Page frequent-projects, click on div object
-step 17: At Page frequent-projects, click on button
-step 18: At Page frequent-projects, click on button
-step 19: At Page frequent-projects, click on input object
-step 20: At Page frequent-projects, click on button
-step 21: Add visual checkpoint at Page frequent-projects",High
-8,Verify Page Frequent Projects,Navigate to pageFrequentProjects and perform a series of actions. Verify the frequent projects page.,"step 1: Navigate to Page frequent-projects
-step 2: At Page frequent-projects, click on hyperlink
-step 3: At Page frequent-projects, click on hyperlink > navigate to Page billing-items
-step 4: At Page billing-items, click on hyperlink > navigate to Page estimate-items
-step 5: At Page estimate-items, click on hyperlink > navigate to Page bills
-step 6: At Page bills, click on hyperlink
-step 7: At Page bills, click on hyperlink > navigate to Page lanes
-step 8: At Page lanes, click on button dropdownbasic1
-step 9: At Page lanes, click on button excel
-step 10: At Page lanes, click on h5 object
-step 11: At Page lanes, click on input object
-step 12: At Page lanes, click on button
-step 13: At Page lanes, click on div object
-step 14: At Page lanes, click on hyperlink > navigate to Page bills
-step 15: At Page bills, click on hyperlink > navigate to Page frequent-projects
-step 16: At Page frequent-projects, click on div object
-step 17: At Page frequent-projects, click on button ngb nav 26
-step 18: At Page frequent-projects, click on input object
-step 19: At Page frequent-projects, click on button
-step 20: Add visual checkpoint at Page frequent-projects",High
-7,Verify Page Frequent Project Suppliers,Navigate to pageFrequentProjects and perform a series of actions. Verify the suppliers for frequent projects.,"step 1: Navigate to Page frequent-projects
-step 2: At Page frequent-projects, click on hyperlink
-step 3: At Page frequent-projects, click on hyperlink > navigate to Page billing-items
-step 4: At Page billing-items, click on hyperlink > navigate to Page estimate-items
-step 5: At Page estimate-items, click on hyperlink > navigate to Page bills
-step 6: At Page bills, click on hyperlink
-step 7: At Page bills, click on hyperlink > navigate to Page lanes
-step 8: At Page lanes, click on button dropdownbasic1
-step 9: At Page lanes, click on button excel
-step 10: At Page lanes, click on h5 object
-step 11: At Page lanes, click on input object
-step 12: At Page lanes, click on button
-step 13: At Page lanes, click on div object
-step 14: At Page lanes, click on hyperlink > navigate to Page bills
-step 15: At Page bills, click on hyperlink > navigate to Page frequent-projects
-step 16: At Page frequent-projects, click on div object
-step 17: At Page frequent-projects, click on button ngb nav 26
-step 18: At Page frequent-projects, click on div object > navigate to Page frequent-project-suppliers
-step 19: At Page frequent-project-suppliers, click on button ngb nav 19
-step 20: At Page frequent-project-suppliers, click on button
-step 21: At Page frequent-project-suppliers, click on button object
-step 22: At Page frequent-project-suppliers, click on button
-step 23: Add visual checkpoint at Page frequent-project-suppliers",High
-6,Verify Page Frequent Projects,Navigate to pageFrequentProjects and perform a series of actions. Verify the frequent projects page.,"step 1: Navigate to Page frequent-projects
-step 2: At Page frequent-projects, click on hyperlink
-step 3: At Page frequent-projects, click on hyperlink > navigate to Page billing-items
-step 4: At Page billing-items, click on hyperlink > navigate to Page estimate-items
-step 5: At Page estimate-items, click on hyperlink > navigate to Page bills
-step 6: At Page bills, click on hyperlink
-step 7: At Page bills, click on hyperlink > navigate to Page lanes
-step 8: At Page lanes, click on button dropdownbasic1
-step 9: At Page lanes, click on button excel
-step 10: At Page lanes, click on h5 object
-step 11: At Page lanes, click on input object
-step 12: At Page lanes, click on button
-step 13: At Page lanes, click on div object
-step 14: At Page lanes, click on hyperlink > navigate to Page bills
-step 15: At Page bills, click on hyperlink > navigate to Page frequent-projects
-step 16: At Page frequent-projects, click on div object
-step 17: At Page frequent-projects, click on button
-step 18: At Page frequent-projects, click on button dropdownbasic1
-step 19: At Page frequent-projects, click on button excel
-step 20: Add visual checkpoint at Page frequent-projects",High
-5,Verify Page Frequent Projects Edit,Navigate to pageFrequentProjects and perform a series of actions. Verify the edit section for frequent projects.,"step 1: Navigate to Page frequent-projects
-step 2: At Page frequent-projects, click on hyperlink
-step 3: At Page frequent-projects, click on hyperlink > navigate to Page billing-items
-step 4: At Page billing-items, click on hyperlink > navigate to Page estimate-items
-step 5: At Page estimate-items, click on hyperlink > navigate to Page bills
-step 6: At Page bills, click on hyperlink
-step 7: At Page bills, click on hyperlink > navigate to Page lanes
-step 8: At Page lanes, click on button dropdownbasic1
-step 9: At Page lanes, click on button excel
-step 10: At Page lanes, click on h5 object
-step 11: At Page lanes, click on input object
-step 12: At Page lanes, click on button
-step 13: At Page lanes, click on div object
-step 14: At Page lanes, click on hyperlink > navigate to Page bills
-step 15: At Page bills, click on hyperlink > navigate to Page frequent-projects
-step 16: At Page frequent-projects, click on div object
-step 17: At Page frequent-projects, click on button > navigate to Page frequent-projects edit
-step 18: At Page frequent-projects edit, click on div object
-step 19: At Page frequent-projects edit, click on button dropdownbasic1
-step 20: At Page frequent-projects edit, click on button excel
-step 21: At Page frequent-projects edit, click on input object
-step 22: Add visual checkpoint at Page frequent-projects edit",High
-4,Verify Page Frequent Projects,Navigate to pageFrequentProjects and perform a series of actions. Verify the frequent projects page.,"step 1: Navigate to Page frequent-projects
-step 2: At Page frequent-projects, click on hyperlink
-step 3: At Page frequent-projects, click on hyperlink > navigate to Page billing-items
-step 4: At Page billing-items, click on hyperlink > navigate to Page estimate-items
-step 5: At Page estimate-items, click on hyperlink > navigate to Page bills
-step 6: At Page bills, click on hyperlink
-step 7: At Page bills, click on hyperlink > navigate to Page lanes
-step 8: At Page lanes, click on button dropdownbasic1
-step 9: At Page lanes, click on button excel
-step 10: At Page lanes, click on h5 object
-step 11: At Page lanes, click on input object
-step 12: At Page lanes, click on button
-step 13: At Page lanes, click on div object
-step 14: At Page lanes, click on hyperlink > navigate to Page bills
-step 15: At Page bills, click on hyperlink > navigate to Page frequent-projects
-step 16: At Page frequent-projects, click on div object
-step 17: At Page frequent-projects, click on button
-step 18: At Page frequent-projects, click on i object
-step 19: At Page frequent-projects, click on button ngb nav 10
-step 20: At Page frequent-projects, click on button
-step 21: Add visual checkpoint at Page frequent-projects",High
-3,Verify Page Frequent Project Comparisons,Navigate to pageFrequentProjects and perform a series of actions. Verify the comparisons for frequent projects.,"step 1: Navigate to Page frequent-projects
-step 2: At Page frequent-projects, click on hyperlink
-step 3: At Page frequent-projects, click on hyperlink > navigate to Page billing-items
-step 4: At Page billing-items, click on hyperlink > navigate to Page estimate-items
-step 5: At Page estimate-items, click on hyperlink > navigate to Page bills
-step 6: At Page bills, click on hyperlink
-step 7: At Page bills, click on hyperlink > navigate to Page lanes
-step 8: At Page lanes, click on button dropdownbasic1
-step 9: At Page lanes, click on button excel
-step 10: At Page lanes, click on h5 object
-step 11: At Page lanes, click on input object
-step 12: At Page lanes, click on button
-step 13: At Page lanes, click on div object
-step 14: At Page lanes, click on hyperlink > navigate to Page bills
-step 15: At Page bills, click on hyperlink > navigate to Page frequent-projects
-step 16: At Page frequent-projects, click on div object
-step 17: At Page frequent-projects, click on button ngb nav 30
-step 18: At Page frequent-projects, click on td object > navigate to Page frequent-project-comparisons
-step 19: At Page frequent-project-comparisons, click on button
-step 20: Add visual checkpoint at Page frequent-project-comparisons",High
-2,Verify Page Frequent Project Comparisons,Navigate to pageFrequentProjects and perform a series of actions. Verify the comparisons for frequent projects.,"step 1: Navigate to Page frequent-projects
-step 2: At Page frequent-projects, click on hyperlink
-step 3: At Page frequent-projects, click on hyperlink > navigate to Page billing-items
-step 4: At Page billing-items, click on hyperlink > navigate to Page estimate-items
-step 5: At Page estimate-items, click on hyperlink > navigate to Page bills
-step 6: At Page bills, click on hyperlink
-step 7: At Page bills, click on hyperlink > navigate to Page lanes
-step 8: At Page lanes, click on button dropdownbasic1
-step 9: At Page lanes, click on button excel
-step 10: At Page lanes, click on h5 object
-step 11: At Page lanes, click on input object
-step 12: At Page lanes, click on button
-step 13: At Page lanes, click on div object
-step 14: At Page lanes, click on hyperlink > navigate to Page bills
-step 15: At Page bills, click on hyperlink > navigate to Page frequent-projects
-step 16: At Page frequent-projects, click on div object
-step 17: At Page frequent-projects, click on button ngb nav 30
-step 18: At Page frequent-projects, click on td object > navigate to Page frequent-project-comparisons
-step 19: At Page frequent-project-comparisons, click on input object
-step 20: At Page frequent-project-comparisons, click on input object
-step 21: At Page frequent-project-comparisons, click on button dropdownbasic1
-step 22: At Page frequent-project-comparisons, click on button
-step 23: At Page frequent-project-comparisons, click on button dropdownbasic1
-step 24: At Page frequent-project-comparisons, click on button excel
-step 25: Add visual checkpoint at Page frequent-project-comparisons",High
-18,Verify Page Selection Items,Navigate to pageFrequentProjects and perform a series of actions. Verify the selection items page.,"step 1: Navigate to Page frequent-projects
-step 2: At Page frequent-projects, click on button stop
-step 3: At Page frequent-projects, click on hyperlink
-step 4: At Page frequent-projects, click on hyperlink > navigate to Page lanes
-step 5: At Page lanes, click on div object
-step 6: At Page lanes, click on hyperlink > navigate to Page billing-items
-step 7: At Page billing-items, click on button
-step 8: At Page billing-items, click on input billing item group name
-step 9: At Page billing-items, click on select billing item group category
-step 10: At Page billing-items, click on select billing item group category
-step 11: At Page billing-items, click on button
-step 12: At Page billing-items, click on hyperlink > navigate to Page selection-items
-step 13: At Page selection-items, click on button object
-step 14: At Page selection-items, click on button
-step 15: Add visual checkpoint at Page selection-items",High
-19,Verify Page Spot Template Default Items,Navigate to pageFrequentProjects and perform a series of actions. Verify the default items for spot templates.,"step 1: Navigate to Page frequent-projects
-step 2: At Page frequent-projects, click on button stop
-step 3: At Page frequent-projects, click on hyperlink
-step 4: At Page frequent-projects, click on hyperlink > navigate to Page lanes
-step 5: At Page lanes, click on hyperlink > navigate to Page suppliers
-step 6: At Page suppliers, click on hyperlink > navigate to Page mail-templates
-step 7: At Page mail-templates, click on hyperlink
-step 8: At Page mail-templates, click on hyperlink > navigate to Page bills
-step 9: At Page bills, click on hyperlink
-step 10: At Page bills, click on hyperlink > navigate to Page spot-projects
-step 11: At Page spot-projects, click on hyperlink > navigate to Page spot-template-default-items
-step 12: Add visual checkpoint at Page spot-template-default-items",High
-20,Verify Successful Billing Items on Page Bills,"Navigate to the frequent projects page and perform multiple actions including stopping, clicking hyperlinks, and verifying the page bills to ensure successful billing items.","step 1: Navigate to Page frequent-projects
-step 2: At Page frequent-projects, click on button stop
-step 3: At Page frequent-projects, click on hyperlink
-step 4: At Page frequent-projects, click on hyperlink > navigate to Page lanes
-step 5: At Page lanes, click on div object
-step 6: At Page lanes, click on hyperlink > navigate to Page billing-items
-step 7: At Page billing-items, click on hyperlink > navigate to Page estimate-items
-step 8: At Page estimate-items, click on hyperlink
-step 9: At Page estimate-items, click on hyperlink > navigate to Page bills
-step 10: At Page bills, click on hyperlink
-step 11: Add visual checkpoint at Page bills",High
-21,Verify Available Suppliers on Page Billing Items,Navigate to the frequent projects page and stop the action. Click hyperlinks to access the page lanes and suppliers. Verify the availability of suppliers on the page billing items.,"step 1: Navigate to Page frequent-projects
-step 2: At Page frequent-projects, click on button stop
-step 3: At Page frequent-projects, click on hyperlink
-step 4: At Page frequent-projects, click on hyperlink > navigate to Page lanes
-step 5: At Page lanes, click on hyperlink > navigate to Page suppliers
-step 6: At Page suppliers, click on hyperlink > navigate to Page mail-templates
-step 7: At Page mail-templates, click on hyperlink > navigate to Page ports
-step 8: At Page ports, click on hyperlink > navigate to Page billing-items
-step 9: Add visual checkpoint at Page billing-items",High
-22,Verify Successful Bills and Objects,"Navigate to the frequent projects page and stop the action. Click hyperlinks to access the page lanes, suppliers, and bills. Perform additional actions and verify the successful display of bills and objects.","step 1: Navigate to Page frequent-projects
-step 2: At Page frequent-projects, click on button stop
-step 3: At Page frequent-projects, click on hyperlink
-step 4: At Page frequent-projects, click on hyperlink > navigate to Page lanes
-step 5: At Page lanes, click on hyperlink > navigate to Page suppliers
-step 6: At Page suppliers, click on hyperlink > navigate to Page mail-templates
-step 7: At Page mail-templates, click on hyperlink
-step 8: At Page mail-templates, click on hyperlink > navigate to Page bills
-step 9: At Page bills, click on button
-step 10: At Page bills, click on div object
-step 11: At Page bills, click on input object
-step 12: Add visual checkpoint at Page bills",High
-23,Verify Available Mail Templates,Navigate to the frequent projects page and perform actions including clicking hyperlinks and objects. Verify the availability of mail templates on the page.,"step 1: Navigate to Page frequent-projects
-step 2: At Page frequent-projects, click on button stop
-step 3: At Page frequent-projects, click on hyperlink
-step 4: At Page frequent-projects, click on hyperlink > navigate to Page lanes
-step 5: At Page lanes, click on div object
-step 6: At Page lanes, click on hyperlink > navigate to Page billing-items
-step 7: At Page billing-items, click on hyperlink > navigate to Page places
-step 8: At Page places, click on hyperlink > navigate to Page suppliers
-step 9: At Page suppliers, click on hyperlink > navigate to Page mail-templates
-step 10: Add visual checkpoint at Page mail-templates",High
-24,Verify Successful Navigation to Frequent Projects,"Navigate to the frequent projects page and perform multiple actions including clicking hyperlinks, buttons, and inputs. Hover over an object and verify successful navigation to the frequent projects page.","step 1: Navigate to Page frequent-projects
-step 2: At Page frequent-projects, click on hyperlink
-step 3: At Page frequent-projects, click on button
-step 4: At Page frequent-projects, click on div object
-step 5: At Page frequent-projects, click on button
-step 6: At Page frequent-projects, click on input frequent project session name
-step 7: At Page frequent-projects, click on button
-step 8: At Page frequent-projects, hover on div object
-step 9: At Page frequent-projects, click on button
-step 10: At Page frequent-projects, click on input frequent project session name
-step 11: At Page frequent-projects, click on button
-step 12: At Page frequent-projects, click on span object
-step 13: At Page frequent-projects, click on button
-step 14: At Page frequent-projects, click on div object
-step 15: At Page frequent-projects, click on i object
-step 16: At Page frequent-projects, click on hyperlink admin
-step 17: Add visual checkpoint at Page frequent-projects",High
-25,Verify Successful Navigation to Frequent Projects,"Navigate to the frequent projects page and perform multiple actions including clicking hyperlinks, buttons, and inputs. Hover over an object and verify successful navigation to the frequent projects page.","step 1: Navigate to Page frequent-projects
-step 2: At Page frequent-projects, click on hyperlink
-step 3: At Page frequent-projects, click on button
-step 4: At Page frequent-projects, click on div object
-step 5: At Page frequent-projects, click on button
-step 6: At Page frequent-projects, click on input frequent project session name
-step 7: At Page frequent-projects, click on button
-step 8: At Page frequent-projects, hover on div object
-step 9: At Page frequent-projects, click on button
-step 10: At Page frequent-projects, click on input frequent project session name
-step 11: At Page frequent-projects, click on button
-step 12: At Page frequent-projects, click on span object
-step 13: At Page frequent-projects, click on button
-step 14: At Page frequent-projects, click on button
-step 15: Add visual checkpoint at Page frequent-projects",High
-26,Verify Available Ports on Page Lanes,Navigate to the frequent projects page and stop the action. Click hyperlinks to access the page lanes and ports. Verify the availability of ports on the page.,"step 1: Navigate to Page frequent-projects
-step 2: At Page frequent-projects, click on button stop
-step 3: At Page frequent-projects, click on hyperlink
-step 4: At Page frequent-projects, click on hyperlink > navigate to Page lanes
-step 5: At Page lanes, click on hyperlink > navigate to Page ports
-step 6: Add visual checkpoint at Page ports",High
-27,Verify Successful Navigation to Frequent Projects,"Navigate to the frequent projects page and perform multiple actions including clicking hyperlinks, buttons, and inputs. Hover over an object and verify successful navigation to the frequent projects page.","step 1: Navigate to Page frequent-projects
-step 2: At Page frequent-projects, click on hyperlink
-step 3: At Page frequent-projects, click on button
-step 4: At Page frequent-projects, click on div object
-step 5: At Page frequent-projects, click on button
-step 6: At Page frequent-projects, click on input frequent project session name
-step 7: At Page frequent-projects, click on button
-step 8: At Page frequent-projects, hover on div object
-step 9: At Page frequent-projects, click on button
-step 10: At Page frequent-projects, click on input frequent project session name
-step 11: At Page frequent-projects, click on button
-step 12: At Page frequent-projects, click on span object
-step 13: At Page frequent-projects, click on i object
-step 14: Add visual checkpoint at Page frequent-projects",High
-28,Verify Successful Navigation to Frequent Projects,"Navigate to the frequent projects page and perform multiple actions including clicking hyperlinks, buttons, and inputs. Hover over an object and verify successful navigation to the frequent projects page.","step 1: Navigate to Page frequent-projects
-step 2: At Page frequent-projects, click on hyperlink
-step 3: At Page frequent-projects, click on button
-step 4: At Page frequent-projects, click on div object
-step 5: At Page frequent-projects, click on button
-step 6: At Page frequent-projects, click on input frequent project session name
-step 7: At Page frequent-projects, click on button
-step 8: At Page frequent-projects, hover on div object
-step 9: At Page frequent-projects, click on button
-step 10: At Page frequent-projects, click on input frequent project session name
-step 11: At Page frequent-projects, click on button
-step 12: At Page frequent-projects, click on span object
-step 13: At Page frequent-projects, click on i object
-step 14: Add visual checkpoint at Page frequent-projects",High
-29,Verify Successful Navigation to Frequent Projects,"Navigate to the frequent projects page and perform multiple actions including clicking hyperlinks, buttons, and inputs. Hover over an object and verify successful navigation to the frequent projects page.","step 1: Navigate to Page frequent-projects
-step 2: At Page frequent-projects, click on hyperlink
-step 3: At Page frequent-projects, click on button
-step 4: At Page frequent-projects, click on div object
-step 5: At Page frequent-projects, click on button
-step 6: At Page frequent-projects, click on input frequent project session name
-step 7: At Page frequent-projects, click on button
-step 8: At Page frequent-projects, hover on div object
-step 9: At Page frequent-projects, click on button
-step 10: At Page frequent-projects, click on input frequent project session name
-step 11: At Page frequent-projects, click on button
-step 12: At Page frequent-projects, click on button
-step 13: At Page frequent-projects, click on i object
-step 14: Add visual checkpoint at Page frequent-projects",High
-30,Verify Page Frequent Projects Edit,Navigate to the frequent projects page and perform actions including clicking hyperlinks and buttons to access the page frequent projects edit. Verify the page frequent projects edit.,"step 1: Navigate to Page frequent-projects
-step 2: At Page frequent-projects, click on hyperlink
-step 3: At Page frequent-projects, click on button
-step 4: At Page frequent-projects, click on div object
-step 5: At Page frequent-projects, click on button > navigate to Page frequent-projects edit
-step 6: At Page frequent-projects edit, click on button
-step 7: At Page frequent-projects edit, click on span object
-step 8: At Page frequent-projects edit, click on button object
-step 9: At Page frequent-projects edit, click on button
-step 10: Add visual checkpoint at Page frequent-projects edit",High
-31,Verify Successful Bills and Objects,"Navigate to the frequent projects page and perform multiple actions including clicking hyperlinks, buttons, and inputs. Verify the successful display of bills and objects.","step 1: Navigate to Page frequent-projects
-step 2: At Page frequent-projects, click on hyperlink > navigate to Page bills
-step 3: At Page bills, click on button
-step 4: At Page bills, click on h5 object
-step 5: At Page bills, click on input object
-step 6: At Page bills, click on button > navigate to Page bills notification
-step 7: At Page bills notification, click on hyperlink > navigate to Page bills
-step 8: At Page bills, click on div object
-step 9: Add visual checkpoint at Page bills",Medium
-32,Verify Page Frequent Project Replies,Navigate to the home page and access the frequent project replies. Perform actions including clicking buttons and icons to access the frequent project replies and verify the page.,"step 1: Navigate to Page home
-step 2: At Page frequent-project-replies, click on button > navigate to Page frequent-project-reply-services
-step 3: At Page frequent-project-reply-services, click on button dropdownbasic1
-step 4: At Page frequent-project-reply-services, click on button
-step 5: At Page frequent-project-reply-services, click on i object > navigate to Page frequent-project-replies
-step 6: Add visual checkpoint at Page frequent-project-replies",Low
-33,Verify Page Frequent Project Reply Services,Navigate to the home page and access the frequent project replies. Perform actions including clicking buttons and inputs to access the frequent project reply services and verify the page.,"step 1: Navigate to Page home
-step 2: At Page frequent-project-replies, click on button > navigate to Page frequent-project-reply-services
-step 3: At Page frequent-project-reply-services, click on button dropdownbasic1
-step 4: At Page frequent-project-reply-services, click on button excel
-step 5: At Page frequent-project-reply-services, click on input object
-step 6: Add visual checkpoint at Page frequent-project-reply-services",Trivial
+1,Verify Page Frequent Projects,"Navigate to the page frequent projects, login, and perform a series of clicks and inputs. Finally, verify the page frequent projects.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u6848\u4ef6\u4e00\u89a7' -> Navigate to page 'spot-projects'
+step 5: Click on link '\u898b\u7a4d\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u521d\u671f\u9805\u76ee\u8a2d\u5b9a' -> Navigate to page 'spot-template-default-items'
+step 6: Click on link '\u5b9a\u671f\u5165\u672d' -> Navigate to page 'frequent-projects'
+step 7: Click on div  -> Navigate to page 'frequent-projects/*'
+step 8: Click on button '\u56de\u7b54\u9805\u76ee\u3092\u7de8\u96c6'
+step 9: Click on i
+step 10: Click on input field 'regular-template-default-item-name'
+step 11: Click on button ' \u4fdd\u5b58'
+step 12: Click on button '\u30ec\u30fc\u30f3\u4e00\u89a7' -> Navigate to page 'frequent-projects/*/*'
+step 13: Click on button '\u30ec\u30fc\u30f3\u3092\u9078\u629e'
+step 14: Click on input field
+step 15: Click on input field
+step 16: Click on button '\u4fdd\u5b58' -> Navigate to page 'frequent-projects/*/*/*'
+step 17: Take full page screenshot as checkpoint",High
+2,Verify Page Frequent Projects,"Navigate to the page frequent projects, login, and perform a series of clicks. Finally, verify the page frequent projects.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u6848\u4ef6\u4e00\u89a7' -> Navigate to page 'spot-projects'
+step 5: Click on link '\u898b\u7a4d\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u521d\u671f\u9805\u76ee\u8a2d\u5b9a' -> Navigate to page 'spot-template-default-items'
+step 6: Click on link '\u5b9a\u671f\u5165\u672d' -> Navigate to page 'frequent-projects'
+step 7: Click on div  -> Navigate to page 'frequent-projects/*'
+step 8: Click on button '\u56de\u7b54\u9805\u76ee\u3092\u7de8\u96c6'
+step 9: Click on i
+step 10: Click on input field 'regular-template-default-item-name'
+step 11: Click on button ' \u4fdd\u5b58'
+step 12: Click on i
+step 13: Click on input field 'regular-default-item-name'
+step 14: Click on button ' \u4fdd\u5b58'
+step 15: Take full page screenshot as checkpoint",High
+3,Verify Page Selection Items,"Navigate to the page frequent projects, login, and perform a series of clicks. Finally, verify the page selection items.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
+step 5: Click on link '\u5834\u6240\u30de\u30b9\u30bf' -> Navigate to page 'places'
+step 6: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
+step 7: Click on div
+step 8: Click on div
+step 9: Click on button ' \u4f5c\u6210'
+step 10: Take full page screenshot as checkpoint",High
+4,Verify Page Mail Templates,"Navigate to the page frequent projects, login, and perform a series of clicks and inputs. Finally, verify the page mail templates.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
+step 5: Click on link '\u5834\u6240\u30de\u30b9\u30bf' -> Navigate to page 'places'
+step 6: Click on link '\u6e2f\u30de\u30b9\u30bf' -> Navigate to page 'ports'
+step 7: Click on link '\u30ec\u30fc\u30f3\u30de\u30b9\u30bf' -> Navigate to page 'lanes'
+step 8: Click on link '\u7269\u6d41\u4f01\u696d\u30de\u30b9\u30bf' -> Navigate to page 'suppliers'
+step 9: Click on button ' \u7269\u6d41\u4f01\u696d\u306e\u8ffd\u52a0'
+step 10: Click on input field 'supplier-name'
+step 11: Enter input value in input field 'supplier-name'
+step 12: Click on div
+step 13: Click on span
+step 14: Click on button ' \u4fdd\u5b58' -> Navigate to page 'suppliers/*'
+step 15: Click on link '\u30e1\u30fc\u30eb\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8' -> Navigate to page 'mail-templates'
+step 16: Click on button ' \u8ffd\u52a0'
+step 17: Click on input field 'mail-template-category-name'
+step 18: Click on button ' \u4fdd\u5b58' -> Navigate to page 'mail-templates/*'
+step 19: Click on button ' \u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u3092\u4f5c\u6210\u3059\u308b' -> Navigate to page 'mail-templates/new/*/*'
+step 20: Click on input field 'mail-template-name'
+step 21: Click on input field 'mail-template-subject'
+step 22: Click on textarea 'mail-template-body'
+step 23: Enter input value in textarea 'mail-template-body'
+step 24: Click on button '\u4fdd\u5b58' -> Navigate to page 'mail-templates/*'
+step 25: Take full page screenshot as checkpoint",High
+5,Verify Page Identity Organization Units,"Navigate to the page frequent projects, perform a series of clicks, login, and verify the page identity organization units.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 3: Click on link '\u6848\u4ef6\u4e00\u89a7' -> Navigate to page 'spot-projects'
+step 4: Click on link '\u898b\u7a4d\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u521d\u671f\u9805\u76ee\u8a2d\u5b9a' -> Navigate to page 'spot-template-default-items'
+step 5: Click on link '\u5b9a\u671f\u5165\u672d' -> Navigate to page 'frequent-projects'
+step 6: Click on link '\u8acb\u6c42\u66f8\u7ba1\u7406' -> Navigate to page 'bills'
+step 7: Click on link '\u8a2d\u5b9a\u30fb\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3'
+step 8: Click on link '\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3\u7ba1\u7406'
+step 9: Click on link '\u30e6\u30fc\u30b6\u30fc' -> Navigate to page 'identity/users'
+step 10: Click on button '\u65b0\u3057\u3044\u30e6\u30fc\u30b6\u30fc'
+step 11: Login
+step 12: Click on button '\u4fdd\u5b58'
+step 13: Click on button 'confirm'
+step 14: Click on button '\u4fdd\u5b58'
+step 15: Click on button 'confirm'
+step 16: Click on button '\u30ad\u30e3\u30f3\u30bb\u30eb'
+step 17: Click on button 'confirm'
+step 18: Click on link '\u7d44\u7e54\u5358\u4f4d' -> Navigate to page 'identity/organization-units'
+step 19: Take full page screenshot as checkpoint",High
+6,Verify Page Selection Items,"Navigate to the page frequent projects, login, and perform a series of clicks. Finally, verify the page selection items.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
+step 5: Click on link '\u5834\u6240\u30de\u30b9\u30bf' -> Navigate to page 'places'
+step 6: Click on button '\u30a8\u30af\u30b9\u30dd\u30fc\u30c8\uff08Excel\uff09'
+step 7: Click on link
+step 8: Click on button '\u30a4\u30f3\u30dd\u30fc\u30c8\uff08Excel\uff09'
+step 9: Click on header
+step 10: Click on input field
+step 11: Click on button ' \u53d6\u8fbc' -> Navigate to page 'error'
+step 12: Click on link '\u6e2f\u30de\u30b9\u30bf'
+step 13: Click on link '\u898b\u7a4d\u9805\u76ee\u30de\u30b9\u30bf' -> Navigate to page 'estimate-items'
+step 14: Click on link '\u8acb\u6c42\u9805\u76ee\u30de\u30b9\u30bf' -> Navigate to page 'billing-items'
+step 15: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
+step 16: Take full page screenshot as checkpoint",High
+7,Verify Page Frequent Projects,"Navigate to the page frequent projects, login, and perform a series of clicks. Finally, verify the page frequent projects.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u6848\u4ef6\u4e00\u89a7' -> Navigate to page 'spot-projects'
+step 5: Click on link '\u898b\u7a4d\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u521d\u671f\u9805\u76ee\u8a2d\u5b9a' -> Navigate to page 'spot-template-default-items'
+step 6: Click on link '\u5b9a\u671f\u5165\u672d' -> Navigate to page 'frequent-projects'
+step 7: Click on div  -> Navigate to page 'frequent-projects/*'
+step 8: Click on button '\u56de\u7b54\u9805\u76ee\u3092\u7de8\u96c6'
+step 9: Click on i
+step 10: Click on input field 'regular-template-default-item-name'
+step 11: Click on button ' \u4fdd\u5b58'
+step 12: Click on i
+step 13: Take full page screenshot as checkpoint",High
+8,Verify Page Selection Items,"Navigate to the page frequent projects, login, and perform a series of clicks and inputs. Finally, verify the page selection items.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
+step 5: Click on link '\u5834\u6240\u30de\u30b9\u30bf' -> Navigate to page 'places'
+step 6: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
+step 7: Click on div
+step 8: Click on td
+step 9: Click on button
+step 10: Click on button
+step 11: Click on textarea 'selection-item-description'
+step 12: Enter input value in textarea 'selection-item-description'
+step 13: Click on button ' \u4fdd\u5b58'
+step 14: Click on td
+step 15: Click on button
+step 16: Click on button
+step 17: Enter input value in input field 'selection-item-name'
+step 18: Take full page screenshot as checkpoint",High
+9,Verify Page Selection Items,"Navigate to the page frequent projects, login, and perform a series of clicks. Finally, verify the page selection items.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
+step 5: Click on link '\u5834\u6240\u30de\u30b9\u30bf' -> Navigate to page 'places'
+step 6: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
+step 7: Click on div
+step 8: Click on input field 'flexSwitchCheckChecked-3a0f452e-48ce-24a9-6f2f-e08f3fc704fa'
+step 9: Take full page screenshot as checkpoint",High
+10,Verify Page Lanes,"Navigate to the page frequent projects, login, and perform a series of clicks. Finally, verify the page lanes.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
+step 5: Click on link '\u5834\u6240\u30de\u30b9\u30bf' -> Navigate to page 'places'
+step 6: Click on link '\u6e2f\u30de\u30b9\u30bf' -> Navigate to page 'ports'
+step 7: Click on link '\u30ec\u30fc\u30f3\u30de\u30b9\u30bf' -> Navigate to page 'lanes'
+step 8: Click on button 'dropdownBasic1'
+step 9: Click on button 'Excel\u304b\u3089\u30a4\u30f3\u30dd\u30fc\u30c8'
+step 10: Click on div
+step 11: Click on input field
+step 12: Take full page screenshot as checkpoint",High
+11,Verify Page Spot Projects New,"Navigate to the page frequent projects, login, and perform a series of clicks. Finally, verify the page spot projects new.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u6848\u4ef6\u4e00\u89a7' -> Navigate to page 'spot-projects'
+step 5: Click on link '\u898b\u7a4d\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u521d\u671f\u9805\u76ee\u8a2d\u5b9a' -> Navigate to page 'spot-template-default-items'
+step 6: Click on link '\u5b9a\u671f\u5165\u672d' -> Navigate to page 'frequent-projects'
+step 7: Click on link '\u8acb\u6c42\u66f8\u7ba1\u7406' -> Navigate to page 'bills'
+step 8: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 9: Click on link '\u6848\u4ef6\u4e00\u89a7' -> Navigate to page 'spot-projects'
+step 10: Click on button ' \u6848\u4ef6\u306e\u65b0\u898f\u4f5c\u6210' -> Navigate to page 'spot-projects/new'
+step 11: Take full page screenshot as checkpoint",High
+14,Verify Page Frequent Project Comparisons,"Navigate to the page frequent projects, login, and perform a series of clicks and inputs. Finally, verify the page frequent project comparisons.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u6848\u4ef6\u4e00\u89a7' -> Navigate to page 'spot-projects'
+step 5: Click on link '\u898b\u7a4d\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u521d\u671f\u9805\u76ee\u8a2d\u5b9a' -> Navigate to page 'spot-template-default-items'
+step 6: Click on link '\u5b9a\u671f\u5165\u672d' -> Navigate to page 'frequent-projects'
+step 7: Click on div  -> Navigate to page 'frequent-projects/*'
+step 8: Click on button 'ngb-nav-28'
+step 9: Click on button ' \u65b0\u898f\u4f5c\u6210'
+step 10: Click on input field 'comparisons-name'
+step 11: Click on select 'comparisons-section'
+step 12: Click on select 'comparisons-section'
+step 13: Click on button '\u4fdd\u5b58' -> Navigate to page 'frequent-project-comparisons/*/*'
+step 14: Take full page screenshot as checkpoint",High
+15,Verify Page Error,"Navigate to the page frequent projects, login, and perform a series of clicks. Finally, verify the page error.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
+step 5: Click on link '\u5834\u6240\u30de\u30b9\u30bf' -> Navigate to page 'places'
+step 6: Click on button '\u30a8\u30af\u30b9\u30dd\u30fc\u30c8\uff08Excel\uff09'
+step 7: Click on link
+step 8: Click on button '\u30a4\u30f3\u30dd\u30fc\u30c8\uff08Excel\uff09'
+step 9: Click on header
+step 10: Click on input field
+step 11: Click on button ' \u53d6\u8fbc' -> Navigate to page 'error'
+step 12: Click on link '\u30de\u30b9\u30bf'
+step 13: Take full page screenshot as checkpoint",High
+13,Verify Page Frequent Projects,"Navigate to the page frequent projects, login, and perform a series of clicks and inputs. Finally, verify the page frequent projects.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u6848\u4ef6\u4e00\u89a7' -> Navigate to page 'spot-projects'
+step 5: Click on link '\u898b\u7a4d\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u521d\u671f\u9805\u76ee\u8a2d\u5b9a' -> Navigate to page 'spot-template-default-items'
+step 6: Click on link '\u5b9a\u671f\u5165\u672d' -> Navigate to page 'frequent-projects'
+step 7: Click on div  -> Navigate to page 'frequent-projects/*'
+step 8: Click on button 'ngb-nav-28'
+step 9: Click on button ' \u65b0\u898f\u4f5c\u6210'
+step 10: Click on input field 'comparisons-name'
+step 11: Click on select 'comparisons-section'
+step 12: Click on select 'comparisons-section'
+step 13: Click on button '\u30ad\u30e3\u30f3\u30bb\u30eb'
+step 14: Take full page screenshot as checkpoint",High
+12,Verify Page Frequent Project Suppliers,"Navigate to the page frequent projects, login, and perform a series of clicks. Finally, verify the page frequent project suppliers.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u6848\u4ef6\u4e00\u89a7' -> Navigate to page 'spot-projects'
+step 5: Click on link '\u898b\u7a4d\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u521d\u671f\u9805\u76ee\u8a2d\u5b9a' -> Navigate to page 'spot-template-default-items'
+step 6: Click on link '\u5b9a\u671f\u5165\u672d' -> Navigate to page 'frequent-projects'
+step 7: Click on div  -> Navigate to page 'frequent-projects/*'
+step 8: Click on button 'ngb-nav-28'
+step 9: Click on button 'ngb-nav-27'
+step 10: Click on div  -> Navigate to page 'frequent-project-suppliers/*'
+step 11: Click on button 'ngb-nav-22'
+step 12: Click on button ' \u8ffd\u52a0'
+step 13: Click on button
+step 14: Click on button '\u78ba\u5b9a'
+step 15: Take full page screenshot as checkpoint",High
+16,Verify Page Billing Items,"Navigate to the page frequent projects, login, and perform a series of clicks and inputs. Finally, verify the page billing items.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u8acb\u6c42\u66f8\u7ba1\u7406' -> Navigate to page 'bills'
+step 5: Click on link '\u30de\u30b9\u30bf'
+step 6: Click on link '\u898b\u7a4d\u9805\u76ee\u30de\u30b9\u30bf' -> Navigate to page 'estimate-items'
+step 7: Click on button ' \u4f5c\u6210'
+step 8: Click on input field 'estimate-item-name'
+step 9: Click on select 'estimate-item-group-unit'
+step 10: Click on select 'estimate-item-group-unit'
+step 11: Click on select 'estimate-item-group-supplierId'
+step 12: Click on select 'estimate-item-group-supplierId'
+step 13: Click on button ' \u4fdd\u5b58'
+step 14: Click on input field 'estimate-item-name'
+step 15: Enter input value in input field 'estimate-item-name'
+step 16: Click on button ' \u4fdd\u5b58'
+step 17: Click on link '\u8acb\u6c42\u9805\u76ee\u30de\u30b9\u30bf' -> Navigate to page 'billing-items'
+step 18: Click on button ' \u4f5c\u6210'
+step 19: Click on input field 'billing-item-name'
+step 20: Click on select 'billing-item-group-supplierId'
+step 21: Click on select 'billing-item-group-supplierId'
+step 22: Click on button ' \u4fdd\u5b58'
+step 23: Take full page screenshot as checkpoint",High
+17,Verify Page Ports,"Navigate to the page frequent projects, login, and perform a series of clicks. Finally, verify the page ports.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
+step 5: Click on link '\u5834\u6240\u30de\u30b9\u30bf' -> Navigate to page 'places'
+step 6: Click on link '\u6e2f\u30de\u30b9\u30bf' -> Navigate to page 'ports'
+step 7: Click on button 'dropdownBasic1'
+step 8: Click on button 'Excel\u304b\u3089\u30a4\u30f3\u30dd\u30fc\u30c8'
+step 9: Click on label
+step 10: Click on input field
+step 11: Take full page screenshot as checkpoint",High
+18,Verify Page Suppliers,"Navigate to the page frequent projects, login, and perform a series of clicks. Finally, verify the page suppliers.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
+step 5: Click on link '\u5834\u6240\u30de\u30b9\u30bf' -> Navigate to page 'places'
+step 6: Click on link '\u30ec\u30fc\u30f3\u30de\u30b9\u30bf' -> Navigate to page 'lanes'
+step 7: Click on link '\u30e1\u30fc\u30eb\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8' -> Navigate to page 'mail-templates'
+step 8: Click on link '\u7269\u6d41\u4f01\u696d\u30de\u30b9\u30bf' -> Navigate to page 'suppliers'
+step 9: Take full page screenshot as checkpoint",High
+19,Verify Page Frequent Projects,"Navigate to the page frequent projects, login, and perform a series of clicks. Finally, verify the page frequent projects.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u6848\u4ef6\u4e00\u89a7' -> Navigate to page 'spot-projects'
+step 5: Click on link '\u898b\u7a4d\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u521d\u671f\u9805\u76ee\u8a2d\u5b9a' -> Navigate to page 'spot-template-default-items'
+step 6: Click on link '\u5b9a\u671f\u5165\u672d' -> Navigate to page 'frequent-projects'
+step 7: Click on div  -> Navigate to page 'frequent-projects/*'
+step 8: Click on button 'ngb-nav-19'
+step 9: Click on button ' \u8ffd\u52a0'
+step 10: Take full page screenshot as checkpoint",High
+20,Verify Page Bills,"Navigate to the page frequent projects, login, and perform a series of clicks. Finally, verify the page bills.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u6848\u4ef6\u4e00\u89a7' -> Navigate to page 'spot-projects'
+step 5: Click on link '\u898b\u7a4d\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u521d\u671f\u9805\u76ee\u8a2d\u5b9a' -> Navigate to page 'spot-template-default-items'
+step 6: Click on link '\u5b9a\u671f\u5165\u672d' -> Navigate to page 'frequent-projects'
+step 7: Click on link '\u8acb\u6c42\u66f8\u7ba1\u7406' -> Navigate to page 'bills'
+step 8: Click on td  -> Navigate to page 'bills/*'
+step 9: Take full page screenshot as checkpoint",High
+21,Verify Page Places after Logging in at Page Frequent Projects,Navigate to the frequent projects page and log in. Click on various hyperlinks and buttons to access different pages and objects. Verify the page places after the actions.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
+step 5: Click on link '\u5834\u6240\u30de\u30b9\u30bf' -> Navigate to page 'places'
+step 6: Click on div
+step 7: Click on button '\u30a4\u30f3\u30dd\u30fc\u30c8\uff08Excel\uff09'
+step 8: Click on div
+step 9: Click on input field
+step 10: Take full page screenshot as checkpoint",High
+22,Verify Page Estimate Items after Logging in at Page Frequent Projects,Navigate to the frequent projects page and log in. Click on hyperlinks to access different pages. Verify the page estimate items after the actions.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
+step 5: Click on link '\u5834\u6240\u30de\u30b9\u30bf' -> Navigate to page 'places'
+step 6: Click on link '\u6e2f\u30de\u30b9\u30bf' -> Navigate to page 'ports'
+step 7: Click on link '\u898b\u7a4d\u9805\u76ee\u30de\u30b9\u30bf' -> Navigate to page 'estimate-items'
+step 8: Take full page screenshot as checkpoint",High
+23,Verify Page Places after Logging in at Page Frequent Projects,Navigate to the frequent projects page and log in. Click on various hyperlinks to access different pages and objects. Verify the page places after the actions.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
+step 5: Click on link '\u5834\u6240\u30de\u30b9\u30bf' -> Navigate to page 'places'
+step 6: Click on input field 'flexSwitchCheckChecked-3a115228-f2d8-6320-e91a-81ea435558e3'
+step 7: Take full page screenshot as checkpoint",Medium
+24,Verify Page Selection Items after Logging in at Page Frequent Projects,Navigate to the frequent projects page and log in. Click on hyperlinks to access different pages. Verify the page selection items after the actions.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u8acb\u6c42\u66f8\u7ba1\u7406' -> Navigate to page 'bills'
+step 5: Click on link '\u30de\u30b9\u30bf'
+step 6: Click on link '\u30de\u30b9\u30bf'
+step 7: Click on link '\u9078\u629e\u80a2\u30de\u30b9\u30bf' -> Navigate to page 'selection-items'
+step 8: Take full page screenshot as checkpoint",Medium
+25,Verify Page Frequent Projects after Logging in at Page Frequent Projects,"Navigate to the frequent projects page and log in. Click on hyperlinks, buttons, and input fields to perform various actions. Verify the page frequent projects after the actions.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u6848\u4ef6\u4e00\u89a7' -> Navigate to page 'spot-projects'
+step 5: Click on link '\u898b\u7a4d\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u521d\u671f\u9805\u76ee\u8a2d\u5b9a' -> Navigate to page 'spot-template-default-items'
+step 6: Click on link '\u5b9a\u671f\u5165\u672d' -> Navigate to page 'frequent-projects'
+step 7: Click on button ' \u65b0\u898f\u4f5c\u6210'
+step 8: Click on div  -> Navigate to page 'frequent-projects/*'
+step 9: Click on button '\u30b7\u30fc\u30c8\u306e\u8ffd\u52a0'
+step 10: Click on input field 'frequent-project-session-name'
+step 11: Click on button ' \u4fdd\u5b58'
+step 12: Click on button '\u30b7\u30fc\u30c8\u306e\u8ffd\u52a0'
+step 13: Click on input field 'frequent-project-session-name'
+step 14: Click on button ' \u4fdd\u5b58'
+step 15: Take full page screenshot as checkpoint",Medium
+26,Verify Page Bills after Logging in at Page Frequent Projects,Navigate to the frequent projects page and log in. Click on hyperlinks and objects to access different pages. Verify the page bills after the actions.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u8acb\u6c42\u66f8\u7ba1\u7406' -> Navigate to page 'bills'
+step 4: Click on div  -> Navigate to page 'bills/*'
+step 5: Take full page screenshot as checkpoint",Low
+27,Verify Page Bills after Logging in at Page Frequent Projects,Navigate to the frequent projects page and log in. Click on various hyperlinks to access different pages. Verify the page bills after the actions.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u8acb\u6c42\u66f8\u7ba1\u7406' -> Navigate to page 'bills'
+step 4: Click on link '\u5909\u63db\u4e2d: 2\u4ef6'
+step 5: Take full page screenshot as checkpoint",Trivial
+28,Verify Page Spot Project Items after Logging in at Page Frequent Projects,Navigate to the frequent projects page and log in. Click on hyperlinks to access different pages. Verify the page spot project items after the actions.,"step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u30b9\u30dd\u30c3\u30c8\u898b\u7a4d'
+step 4: Click on link '\u6848\u4ef6\u4e00\u89a7' -> Navigate to page 'spot-projects'
+step 5: Click on link '\u898b\u7a4d\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u521d\u671f\u9805\u76ee\u8a2d\u5b9a' -> Navigate to page 'spot-template-default-items'
+step 6: Click on link '\u30b9\u30dd\u30c3\u30c8\u6848\u4ef6\u521d\u671f\u9805\u76ee\u8a2d\u5b9a' -> Navigate to page 'spot-project-items'
+step 7: Take full page screenshot as checkpoint",Trivial
+29,Verify Page Bills Notification after Logging in at Page Frequent Projects,"Navigate to the frequent projects page and log in. Click on hyperlinks, buttons, and input fields to perform various actions. Verify the page bills notification after the actions.","step 1: Navigate to https://att.app.portx-demo.com/frequent-projects
+step 2: Login
+step 3: Click on link '\u8acb\u6c42\u66f8\u7ba1\u7406' -> Navigate to page 'bills'
+step 4: Click on button '\u500b\u5225\u8acb\u6c42\u66f8\u306e\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9'
+step 5: Click on header
+step 6: Click on input field
+step 7: Click on button ' \u6b21\u3078' -> Navigate to page 'bills/notification'
+step 8: Take full page screenshot as checkpoint",Trivial

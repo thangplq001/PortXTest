@@ -1,0 +1,9 @@
+{
+    "steps": [
+        "step 1: Navigate to https://att.app.portx-demo.com/frequent-projects",
+        "step 2: Login",
+        "step 3: Click on link '\\u8acb\\u6c42\\u66f8\\u7ba1\\u7406' -> Navigate to page 'bills'",
+        "step 4: Click on div  -> Navigate to page 'bills/*'",
+        "step 5: Take full page screenshot as checkpoint"
+    ]
+}
