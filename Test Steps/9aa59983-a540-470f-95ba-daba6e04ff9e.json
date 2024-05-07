@@ -1,0 +1,27 @@
+{
+    "steps": [
+        "step 1: Navigate to https://att.app.portx-demo.com/dashboard",
+        "step 2: Login",
+        "step 3: Click on link 'Bills' -> Navigate to page 'bills'",
+        "step 4: Click on link 'Shippings' -> Navigate to page 'shippings'",
+        "step 5: Click on link 'Bills' -> Navigate to page 'bills'",
+        "step 6: Click on link 'Spot project management'",
+        "step 7: Click on link 'Frequent Projects' -> Navigate to page 'frequent-projects'",
+        "step 8: Click on link 'Master settings'",
+        "step 9: Click on link 'Estimate Items' -> Navigate to page 'estimate-items'",
+        "step 10: Click on link 'Billing Items' -> Navigate to page 'billing-items'",
+        "step 11: Click on link 'Selection Items' -> Navigate to page 'selection-items'",
+        "step 12: Click on div",
+        "step 13: Click on button 'New Selection Item Option'",
+        "step 14: Click on button 'Save'",
+        "step 15: Click on div",
+        "step 16: Click on link 'Suppliers' -> Navigate to page 'suppliers'",
+        "step 17: Click on link 'Mail Templates' -> Navigate to page 'mail-templates'",
+        "step 18: Click on link 'Lanes' -> Navigate to page 'lanes'",
+        "step 19: Click on link 'Ports' -> Navigate to page 'ports'",
+        "step 20: Click on link 'Places' -> Navigate to page 'places'",
+        "step 21: Click on link 'Selection Items' -> Navigate to page 'selection-items'",
+        "step 22: Click on link 'Billing Items' -> Navigate to page 'billing-items'",
+        "step 23: Take full page screenshot as checkpoint"
+    ]
+}

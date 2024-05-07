@@ -1,0 +1,12 @@
+{
+    "steps": [
+        "step 1: Navigate to https://att.app.portx-demo.com/",
+        "step 2: Login",
+        "step 3: Create and save billing items and groups",
+        "step 4: Click on button 'Save'",
+        "step 5: Click on div",
+        "step 6: Click on link 'Selection Items' -> Navigate to page 'selection-items'",
+        "step 7: Click on link 'Billing Items' -> Navigate to page 'billing-items'",
+        "step 8: Take full page screenshot as checkpoint"
+    ]
+}

@@ -1,0 +1,409 @@
+Flow ID,Name,Description,Test Steps,Flow Priority
+1,Verify Checkout Process for Estimate Items on PageEstimateItems,Navigate to the home page and login. Create and save estimate items and groups on the pageEstimateItems. Click the save button and proceed to billing items on the home page. Confirm the object selection on the pageBillingItems and verify the pageBillingItems.,"Step 1: Navigate to https://att.app.portx-demo.com/
+Step 2: Login
+Step 3: Create and save estimate items and groups
+	- Step 1: Click on link 'Master settings'
+	- Step 2: Click on link 'Estimate Items' -> Navigate to page 'estimate-items'
+	- Step 3: Click on button
+	- Step 4: Click on button
+	- Step 5: Click on button 'confirm'
+	- Step 6: Click on button 'New Estimate Item Group'
+	- Step 7: Click on input field 'estimate-item-group-name'
+	- Step 8: Click on select 'estimate-item-group-unit'
+	- Step 9: Click on select 'estimate-item-group-unit'
+	- Step 10: Click on select 'estimate-item-group-tag'
+	- Step 11: Click on select 'estimate-item-group-tag'
+	- Step 12: Click on select 'estimate-item-group-category'
+	- Step 13: Click on select 'estimate-item-group-category'
+	- Step 14: Click on button 'Save'
+	- Step 15: Click on button 'New Estimate Item'
+	- Step 16: Click on input field 'estimate-item-name'
+	- Step 17: Click on select 'estimate-item-group-unit'
+	- Step 18: Click on select 'estimate-item-group-unit'
+	- Step 19: Click on select 'estimate-item-group-supplierId'
+	- Step 20: Click on select 'estimate-item-group-supplierId'
+Step 4: Click on button 'Save'
+Step 5: Click on link 'Billing Items'
+Step 6: Confirm object selection
+	- Step 1: Click on button
+	- Step 2: Click on button
+	- Step 3: Click on button 'confirm'
+	- Step 4: Click on button
+	- Step 5: Click on button
+Step 7: Take full page screenshot as checkpoint
+",High
+2,Verify Mail Templates Creation on PageMailTemplates,"Access the dashboard and log in. Click the master settings and navigate to mail templates on the pageMailTemplates. Add a new mail template category, input the necessary details, and save. Create a template on the pageHome and input the required details. Verify the pageMailTemplates.","Step 1: Navigate to https://att.app.portx-demo.com/dashboard
+Step 2: Login
+Step 3: Click on link 'Master settings'
+Step 4: Click on link 'Mail Templates' -> Navigate to page 'mail-templates'
+Step 5: Click on button 'Add'
+Step 6: Click on input field 'mail-template-category-name'
+Step 7: Enter input value in input field 'mail-template-category-name'
+Step 8: Click on button 'Save' -> Navigate to page 'mail-templates/*'
+Step 9: Click on div
+Step 10: Click on button 'Create a template'
+Step 11: Input and save mail template details
+	- Step 1: Click on input field 'mail-template-name'
+	- Step 2: Enter input value in input field 'mail-template-name'
+	- Step 3: Click on input field 'mail-template-subject'
+	- Step 4: Click on div
+	- Step 5: Enter input value in input field 'mail-template-subject'
+	- Step 6: Click on textarea 'mail-template-body'
+	- Step 7: Enter input value in textarea 'mail-template-body'
+	- Step 8: Click on button 'Save'
+Step 12: Take full page screenshot as checkpoint
+",Low
+3,Verify Billing Items Creation on PageBillingItems,Navigate to the home page and log in. Create and save billing items and groups on the pageBillingItems. Click the save button and proceed to the selection items page. Click on billing items and verify the pageBillingItems.,"Step 1: Navigate to https://att.app.portx-demo.com/
+Step 2: Login
+Step 3: Create and save billing items and groups
+	- Step 1: Click on link 'Master settings'
+	- Step 2: Click on link 'Estimate Items' -> Navigate to page 'estimate-items'
+	- Step 3: Click on link 'Billing Items' -> Navigate to page 'billing-items'
+	- Step 4: Click on button
+	- Step 5: Click on button
+	- Step 6: Click on button 'confirm'
+	- Step 7: Click on button 'New Billing Item Group'
+	- Step 8: Click on input field 'billing-item-group-name'
+	- Step 9: Enter input value in input field 'billing-item-group-name'
+	- Step 10: Click on select 'billing-item-group-category'
+	- Step 11: Click on select 'billing-item-group-category'
+	- Step 12: Click on button 'Save'
+	- Step 13: Click on input field 'billing-item-group-name'
+	- Step 14: Enter input value in input field 'billing-item-group-name'
+	- Step 15: Click on button 'Save'
+	- Step 16: Click on button 'New Billing Item'
+	- Step 17: Click on input field 'billing-item-name'
+	- Step 18: Enter input value in input field 'billing-item-name'
+	- Step 19: Click on select 'billing-item-group-supplierId'
+	- Step 20: Click on select 'billing-item-group-supplierId'
+Step 4: Click on button 'Save'
+Step 5: Click on div
+Step 6: Click on link 'Selection Items' -> Navigate to page 'selection-items'
+Step 7: Click on link 'Billing Items' -> Navigate to page 'billing-items'
+Step 8: Take full page screenshot as checkpoint
+",Trivial
+4,Verify Selection Items and Billing Items on PageSelectionItems,"Access the dashboard and log in. Click the bills and shippings on the pageBills. Navigate to the spot project management and frequent projects on the pageFrequentProjects. Click the master settings and access estimate items, billing items, and selection items. Verify the pageBillingItems.","Step 1: Navigate to https://att.app.portx-demo.com/dashboard
+Step 2: Login
+Step 3: Click on link 'Master settings'
+Step 4: Click on link 'Mail Templates' -> Navigate to page 'mail-templates'
+Step 5: Click on link 'Suppliers' -> Navigate to page 'suppliers'
+Step 6: Click on link 'Mail Templates' -> Navigate to page 'mail-templates'
+Step 7: Click on input field
+Step 8: Click on input field
+Step 9: Click on button 'Delete'
+Step 10: Click on button 'confirm'
+Step 11: Click on button 'Add'
+Step 12: Click on input field 'mail-template-category-name'
+Step 13: Enter input value in input field 'mail-template-category-name'
+Step 14: Click on button 'Save' -> Navigate to page 'mail-templates/*'
+Step 15: Click on div
+Step 16: Click on button 'Create a template'
+Step 17: Input and save mail template details
+	- Step 1: Click on input field 'mail-template-name'
+	- Step 2: Enter input value in input field 'mail-template-name'
+	- Step 3: Click on input field 'mail-template-subject'
+	- Step 4: Click on div
+	- Step 5: Enter input value in input field 'mail-template-subject'
+	- Step 6: Click on textarea 'mail-template-body'
+	- Step 7: Enter input value in textarea 'mail-template-body'
+	- Step 8: Click on button 'Save'
+Step 18: Click on div
+Step 19: Click on button
+Step 20: Click on link 'Estimate Items' -> Navigate to page 'estimate-items'
+Step 21: Click on link 'Billing Items' -> Navigate to page 'billing-items'
+Step 22: Click on button 'New Billing Item Group'
+Step 23: Click on input field 'billing-item-group-name'
+Step 24: Click on select 'billing-item-group-category'
+Step 25: Click on select 'billing-item-group-category'
+Step 26: Click on button 'Save'
+Step 27: Click on input field 'billing-item-group-name'
+Step 28: Enter input value in input field 'billing-item-group-name'
+Step 29: Click on button 'Save'
+Step 30: Click on button 'New Billing Item Group'
+Step 31: Click on input field 'billing-item-group-name'
+Step 32: Enter input value in input field 'billing-item-group-name'
+Step 33: Click on select 'billing-item-group-category'
+Step 34: Click on select 'billing-item-group-category'
+Step 35: Click on select 'billing-item-group-category'
+Step 36: Click on select 'billing-item-group-category'
+Step 37: Click on select 'billing-item-group-type'
+Step 38: Click on select 'billing-item-group-type'
+Step 39: Click on select 'billing-item-group-unit'
+Step 40: Click on select 'billing-item-group-unit'
+Step 41: Click on button 'Save'
+Step 42: Click on div
+Step 43: Click on td
+Step 44: Click on button 'New Billing Item'
+Step 45: Click on input field 'billing-item-group-name'
+Step 46: Enter input value in input field 'billing-item-group-name'
+Step 47: Click on select 'billing-item-group-category'
+Step 48: Click on select 'billing-item-group-category'
+Step 49: Click on button 'Save'
+Step 50: Click on link 'Selection Items' -> Navigate to page 'selection-items'
+Step 51: Take full page screenshot as checkpoint
+",Trivial
+5,Verify Places on PagePlaces,"Access the dashboard and log in. Click the admin and log out. Navigate to rate managements and frequent projects on the pageFrequentProjects. Click the master settings and access various sections including estimate items, billing items, selection items, places, ports, and mail templates. Verify the pagePlaces.","Step 1: Navigate to https://att.app.portx-demo.com/dashboard
+Step 2: Login
+Step 3: Click on link 'Bills' -> Navigate to page 'bills'
+Step 4: Click on link 'Shippings' -> Navigate to page 'shippings'
+Step 5: Click on link 'Bills' -> Navigate to page 'bills'
+Step 6: Click on link 'Spot project management'
+Step 7: Click on link 'Frequent Projects' -> Navigate to page 'frequent-projects'
+Step 8: Click on link 'Master settings'
+Step 9: Click on link 'Estimate Items' -> Navigate to page 'estimate-items'
+Step 10: Click on link 'Billing Items' -> Navigate to page 'billing-items'
+Step 11: Click on link 'Selection Items' -> Navigate to page 'selection-items'
+Step 12: Click on div
+Step 13: Click on button 'New Selection Item Option'
+Step 14: Click on button 'Save'
+Step 15: Click on div
+Step 16: Click on link 'Suppliers' -> Navigate to page 'suppliers'
+Step 17: Click on link 'Mail Templates' -> Navigate to page 'mail-templates'
+Step 18: Click on link 'Lanes' -> Navigate to page 'lanes'
+Step 19: Click on link 'Ports' -> Navigate to page 'ports'
+Step 20: Click on link 'Places' -> Navigate to page 'places'
+Step 21: Click on link 'Selection Items' -> Navigate to page 'selection-items'
+Step 22: Click on link 'Billing Items' -> Navigate to page 'billing-items'
+Step 23: Take full page screenshot as checkpoint
+",Trivial
+6,Verify Mail Templates Creation and Management on PageMailTemplates,"Access the dashboard and log in. Click the master settings and navigate to selection items, places, and mail templates on the pageMailTemplates. Add a new mail template category, input the necessary details, and save. Create a template on the pageHome and input the required details. Verify the pageMailTemplates.","Step 1: Navigate to https://att.app.portx-demo.com/dashboard
+Step 2: Login
+Step 3: Click on span
+Step 4: Click on link 'English'
+Step 5: Click on nav
+Step 6: Click on link 'Frequent Projects' -> Navigate to page 'frequent-projects'
+Step 7: Click on link 'Master settings'
+Step 8: Click on link 'Suppliers' -> Navigate to page 'suppliers'
+Step 9: Click on button
+Step 10: Click on button 'Cancel'
+Step 11: Click on button
+Step 12: Click on button 'Cancel'
+Step 13: Click on button
+Step 14: Click on button 'Cancel'
+Step 15: Click on button
+Step 16: Enter input value in input field 'supplier-name'
+Step 17: Click on button 'Save' -> Navigate to page 'suppliers/*'
+Step 18: Click on div
+Step 19: Click on button 'Add Person In Charge'
+Step 20: Click on input field 'user-supplier-name'
+Step 21: Enter input value in input field 'user-supplier-name'
+Step 22: Click on input field 'user-supplier-email'
+Step 23: Click on button 'Save'
+Step 24: Click on div
+Step 25: Click on link 'Mail Templates' -> Navigate to page 'mail-templates'
+Step 26: Click on button 'Add'
+Step 27: Click on input field 'mail-template-category-name'
+Step 28: Enter input value in input field 'mail-template-category-name'
+Step 29: Click on button 'Save' -> Navigate to page 'mail-templates/*'
+Step 30: Click on div
+Step 31: Click on button 'Create a template'
+Step 32: Input and save mail template details
+	- Step 1: Click on input field 'mail-template-name'
+	- Step 2: Enter input value in input field 'mail-template-name'
+	- Step 3: Click on input field 'mail-template-subject'
+	- Step 4: Click on div
+	- Step 5: Enter input value in input field 'mail-template-subject'
+	- Step 6: Click on textarea 'mail-template-body'
+	- Step 7: Enter input value in textarea 'mail-template-body'
+	- Step 8: Click on button 'Save'
+Step 33: Click on button 'Create a template' -> Navigate to page 'mail-templates/new/*/*'
+Step 34: Enter input value in input field 'mail-template-name'
+Step 35: Click on input field 'mail-template-subject'
+Step 36: Enter input value in input field 'mail-template-subject'
+Step 37: Click on textarea 'mail-template-body'
+Step 38: Enter input value in textarea 'mail-template-body'
+Step 39: Click on button 'Save' -> Navigate to page 'mail-templates/*'
+Step 40: Take full page screenshot as checkpoint
+",Trivial
+7,Verify Mail Templates Creation and Billing Items on PageBillingItems,"Access the dashboard and log in. Click the master settings and navigate to selection items, places, and mail templates on the pageMailTemplates. Add a new mail template category, input the necessary details, and save. Create a template on the pageHome and input the required details. Verify the pageBillingItems.","Step 1: Navigate to https://att.app.portx-demo.com/dashboard
+Step 2: Login
+Step 3: Click on link 'admin'
+Step 4: Click on link 'Log out'
+Step 5: Click on link 'Rate Managements' -> Navigate to page 'rate-managements'
+Step 6: Click on link 'Frequent Projects' -> Navigate to page 'frequent-projects'
+Step 7: Click on link 'Master settings'
+Step 8: Click on link 'Master settings'
+Step 9: Click on link 'Estimate Items' -> Navigate to page 'estimate-items'
+Step 10: Click on link 'Billing Items' -> Navigate to page 'billing-items'
+Step 11: Click on link 'Selection Items' -> Navigate to page 'selection-items'
+Step 12: Click on link 'Places' -> Navigate to page 'places'
+Step 13: Click on link 'Ports' -> Navigate to page 'ports'
+Step 14: Click on link 'Lanes' -> Navigate to page 'lanes'
+Step 15: Click on link 'Mail Templates' -> Navigate to page 'mail-templates'
+Step 16: Click on link 'Suppliers' -> Navigate to page 'suppliers'
+Step 17: Click on div
+Step 18: Click on div
+Step 19: Click on div
+Step 20: Click on link 'Estimate Items' -> Navigate to page 'estimate-items'
+Step 21: Click on link 'Billing Items' -> Navigate to page 'billing-items'
+Step 22: Click on link 'Selection Items' -> Navigate to page 'selection-items'
+Step 23: Click on link 'Places' -> Navigate to page 'places'
+Step 24: Click on link 'Ports' -> Navigate to page 'ports'
+Step 25: Click on link 'Estimate Items' -> Navigate to page 'estimate-items'
+Step 26: Click on link 'Suppliers' -> Navigate to page 'suppliers'
+Step 27: Click on button
+Step 28: Click on button 'Cancel'
+Step 29: Click on link 'Mail Templates'
+Step 30: Click on link 'Billing Items' -> Navigate to page 'billing-items'
+Step 31: Click on link 'Places' -> Navigate to page 'places'
+Step 32: Take full page screenshot as checkpoint
+",Trivial
+8,Verify Selection Items and Billing Items Creation on PageSelectionItems,"Navigate to the dashboard and log in. Click the master settings and access selection items, places, ports, lanes, mail templates, suppliers, and admin. Create and save billing items and groups on the pageBillingItems. Confirm the object selection on the pageBillingItems and verify the pageBillingItems.","Step 1: Navigate to https://att.app.portx-demo.com/dashboard
+Step 2: Login
+Step 3: Click on link 'Master settings'
+Step 4: Click on link 'Selection Items' -> Navigate to page 'selection-items'
+Step 5: Click on link 'Places' -> Navigate to page 'places'
+Step 6: Click on link 'Mail Templates' -> Navigate to page 'mail-templates'
+Step 7: Click on button 'Add'
+Step 8: Click on input field 'mail-template-category-name'
+Step 9: Enter input value in input field 'mail-template-category-name'
+Step 10: Click on button 'Save' -> Navigate to page 'mail-templates/*'
+Step 11: Click on div
+Step 12: Click on button 'Create a template'
+Step 13: Input and save mail template details
+	- Step 1: Click on input field 'mail-template-name'
+	- Step 2: Enter input value in input field 'mail-template-name'
+	- Step 3: Click on input field 'mail-template-subject'
+	- Step 4: Click on div
+	- Step 5: Enter input value in input field 'mail-template-subject'
+	- Step 6: Click on textarea 'mail-template-body'
+	- Step 7: Enter input value in textarea 'mail-template-body'
+	- Step 8: Click on button 'Save'
+Step 14: Click on div
+Step 15: Click on div
+Step 16: Click on link 'Billing Items' -> Navigate to page 'billing-items'
+Step 17: Click on link 'Estimate Items' -> Navigate to page 'estimate-items'
+Step 18: Click on link 'Mail Templates' -> Navigate to page 'mail-templates'
+Step 19: Click on div  -> Navigate to page 'mail-templates/*'
+Step 20: Click on link 'Lanes' -> Navigate to page 'lanes'
+Step 21: Click on link 'Ports' -> Navigate to page 'ports'
+Step 22: Click on link 'Places' -> Navigate to page 'places'
+Step 23: Click on link 'Selection Items' -> Navigate to page 'selection-items'
+Step 24: Click on link 'Billing Items' -> Navigate to page 'billing-items'
+Step 25: Click on div
+Step 26: Click on div
+Step 27: Click on div
+Step 28: Click on td
+Step 29: Click on div
+Step 30: Click on div
+Step 31: Click on link 'Selection Items' -> Navigate to page 'selection-items'
+Step 32: Click on link 'Places' -> Navigate to page 'places'
+Step 33: Click on link 'Ports' -> Navigate to page 'ports'
+Step 34: Click on link 'Places' -> Navigate to page 'places'
+Step 35: Click on link 'Suppliers' -> Navigate to page 'suppliers'
+Step 36: Click on link 'Mail Templates' -> Navigate to page 'mail-templates'
+Step 37: Click on link 'admin'
+Step 38: Click on link 'Log out'
+Step 39: Create and save billing items and groups
+	- Step 1: Click on link 'Master settings'
+	- Step 2: Click on link 'Estimate Items' -> Navigate to page 'estimate-items'
+	- Step 3: Click on link 'Billing Items' -> Navigate to page 'billing-items'
+	- Step 4: Click on button
+	- Step 5: Click on button
+	- Step 6: Click on button 'confirm'
+	- Step 7: Click on button 'New Billing Item Group'
+	- Step 8: Click on input field 'billing-item-group-name'
+	- Step 9: Enter input value in input field 'billing-item-group-name'
+	- Step 10: Click on select 'billing-item-group-category'
+	- Step 11: Click on select 'billing-item-group-category'
+	- Step 12: Click on button 'Save'
+	- Step 13: Click on input field 'billing-item-group-name'
+	- Step 14: Enter input value in input field 'billing-item-group-name'
+	- Step 15: Click on button 'Save'
+	- Step 16: Click on button 'New Billing Item'
+	- Step 17: Click on input field 'billing-item-name'
+	- Step 18: Enter input value in input field 'billing-item-name'
+	- Step 19: Click on select 'billing-item-group-supplierId'
+	- Step 20: Click on select 'billing-item-group-supplierId'
+Step 40: Click on button 'Save'
+Step 41: Click on div
+Step 42: Click on link 'Selection Items' -> Navigate to page 'selection-items'
+Step 43: Click on link 'Places' -> Navigate to page 'places'
+Step 44: Click on link 'Ports' -> Navigate to page 'ports'
+Step 45: Click on link 'Estimate Items' -> Navigate to page 'estimate-items'
+Step 46: Click on link 'Places' -> Navigate to page 'places'
+Step 47: Click on link 'Ports' -> Navigate to page 'ports'
+Step 48: Click on link 'Billing Items' -> Navigate to page 'billing-items'
+Step 49: Click on link 'Selection Items' -> Navigate to page 'selection-items'
+Step 50: Click on link 'Estimate Items' -> Navigate to page 'estimate-items'
+Step 51: Click on link 'Bills' -> Navigate to page 'bills'
+Step 52: Click on div  -> Navigate to page 'bills/detail/*'
+Step 53: Click on i  -> Navigate to page 'bills'
+Step 54: Click on div  -> Navigate to page 'bills/detail/*'
+Step 55: Click on i  -> Navigate to page 'bills'
+Step 56: Click on div
+Step 57: Click on link 'admin'
+Step 58: Click on link 'Log out'
+Step 59: Create and save estimate items and groups
+	- Step 1: Click on link 'Master settings'
+	- Step 2: Click on link 'Estimate Items' -> Navigate to page 'estimate-items'
+	- Step 3: Click on button
+	- Step 4: Click on button
+	- Step 5: Click on button 'confirm'
+	- Step 6: Click on button 'New Estimate Item Group'
+	- Step 7: Click on input field 'estimate-item-group-name'
+	- Step 8: Click on select 'estimate-item-group-unit'
+	- Step 9: Click on select 'estimate-item-group-unit'
+	- Step 10: Click on select 'estimate-item-group-tag'
+	- Step 11: Click on select 'estimate-item-group-tag'
+	- Step 12: Click on select 'estimate-item-group-category'
+	- Step 13: Click on select 'estimate-item-group-category'
+	- Step 14: Click on button 'Save'
+	- Step 15: Click on button 'New Estimate Item'
+	- Step 16: Click on input field 'estimate-item-name'
+	- Step 17: Click on select 'estimate-item-group-unit'
+	- Step 18: Click on select 'estimate-item-group-unit'
+	- Step 19: Click on select 'estimate-item-group-supplierId'
+	- Step 20: Click on select 'estimate-item-group-supplierId'
+Step 60: Click on button 'Save'
+Step 61: Click on link 'Billing Items' -> Navigate to page 'billing-items'
+Step 62: Click on link 'Selection Items' -> Navigate to page 'selection-items'
+Step 63: Click on td
+Step 64: Click on button
+Step 65: Click on button
+Step 66: Click on button 'confirm'
+Step 67: Click on button 'New Selection Item'
+Step 68: Click on input field 'selection-item-name'
+Step 69: Enter input value in input field 'selection-item-name'
+Step 70: Click on textarea 'selection-item-description'
+Step 71: Click on button 'Save'
+Step 72: Click on div
+Step 73: Click on button 'New Selection Item Option'
+Step 74: Click on input field 'selection-item-option-code'
+Step 75: Enter input value in input field 'selection-item-option-code'
+Step 76: Click on input field 'selection-item-option-name'
+Step 77: Enter input value in input field 'selection-item-option-name'
+Step 78: Click on input field 'selection-item-option-order'
+Step 79: Click on button 'Save'
+Step 80: Click on div
+Step 81: Click on button 'New Selection Item Option'
+Step 82: Enter input value in input field 'selection-item-option-code'
+Step 83: Click on input field 'selection-item-option-name'
+Step 84: Enter input value in input field 'selection-item-option-name'
+Step 85: Click on button 'Save'
+Step 86: Click on link 'Places' -> Navigate to page 'places'
+Step 87: Click on link 'Ports' -> Navigate to page 'ports'
+Step 88: Click on link 'Mail Templates' -> Navigate to page 'mail-templates'
+Step 89: Click on button 'Add'
+Step 90: Click on button 'Cancel'
+Step 91: Click on input field
+Step 92: Click on input field
+Step 93: Click on td
+Step 94: Click on input field
+Step 95: Click on button 'Delete'
+Step 96: Click on button 'confirm'
+Step 97: Click on button 'Add'
+Step 98: Click on input field 'mail-template-category-name'
+Step 99: Enter input value in input field 'mail-template-category-name'
+Step 100: Click on button 'Save' -> Navigate to page 'mail-templates/*'
+Step 101: Click on div
+Step 102: Click on link 'Lanes' -> Navigate to page 'lanes'
+Step 103: Click on link 'Billing Items'
+Step 104: Confirm object selection
+	- Step 1: Click on button
+	- Step 2: Click on button
+	- Step 3: Click on button 'confirm'
+	- Step 4: Click on button
+	- Step 5: Click on button
+Step 105: Take full page screenshot as checkpoint
+",Trivial

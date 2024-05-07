@@ -1,0 +1,16 @@
+{
+    "steps": [
+        "step 1: Navigate to https://att.app.portx-demo.com/dashboard",
+        "step 2: Login",
+        "step 3: Click on link 'Master settings'",
+        "step 4: Click on link 'Mail Templates' -> Navigate to page 'mail-templates'",
+        "step 5: Click on button 'Add'",
+        "step 6: Click on input field 'mail-template-category-name'",
+        "step 7: Enter input value in input field 'mail-template-category-name'",
+        "step 8: Click on button 'Save' -> Navigate to page 'mail-templates/*'",
+        "step 9: Click on div",
+        "step 10: Click on button 'Create a template'",
+        "step 11: Input and save mail template details",
+        "step 12: Take full page screenshot as checkpoint"
+    ]
+}
