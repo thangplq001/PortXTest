@@ -19,13 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://thangplq.app.portx-test.com/')
+'Step1: open brower'
+WebUI.navigateToUrl('https://att.app.portx-demo.com/')
 
+'Step2: input user'
 WebUI.setText(findTestObject('Object Repository/Page_PortX/input_LoginInput.UserNameOrEmailAddress'), 'admin')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_PortX/input_LoginInput.Password'), 'vckfKYHQ/X5a0LrHpsIEKA==')
+'Step3: input password'
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_PortX/input_LoginInput.Password'), 'VzhjuEl3m2q82huPuULslg==')
 
+'Step4: click button login'
 WebUI.click(findTestObject('Object Repository/Page_PortX/button_Login'))
-
-WebUI.closeBrowser()
 
