@@ -3,7 +3,7 @@ name: Run Datadog Synthetic Tests
 on:
   push:
     branches:
-      - PortX
+      - main
   pull_request:
 
 jobs:
