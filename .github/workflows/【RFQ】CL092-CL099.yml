@@ -29,13 +29,10 @@ jobs:
           LOGIN_PASSWORD: ${{ secrets.LOGIN_PASSWORD }}
         run: datadog-ci synthetics run-tests --apiKey $DATADOG_API_KEY --appKey $DATADOG_APP_KEY --public-id bpv-q45-uv2 --datadogSite ap1.datadoghq.com --variable "LOGIN_USER=$LOGIN_USER" --variable "LOGIN_PASSWORD=$LOGIN_PASSWORD"
       - name: Run 【RFQ】CL-092,093,094,095,096,097
-        env:
-          DATADOG_API_KEY: ${{ secrets.DATADOG_API_KEY }}
-          DATADOG_APP_KEY: ${{ secrets.DATADOG_APP_KEY }}
-        run: datadog-ci synthetics run-tests --apiKey $DATADOG_API_KEY --appKey $DATADOG_APP_KEY --public-id ztf-b6e-uz8 --datadogSite ap1.datadoghq.com 
+        run: datadog-ci synthetics run-tests --apiKey 12883751f7332e233ae9186cc2ff6f65 --appKey e8dd9aa4ca8cc33b01eac786d0e832c890c6efaa --public-id ztf-b6e-uz8 --datadogSite ap1.datadoghq.com 
       - name: Run 【RFQ】CL-098,099
         env:
           DATADOG_API_KEY: ${{ secrets.DATADOG_API_KEY }}
           DATADOG_APP_KEY: ${{ secrets.DATADOG_APP_KEY }}
-        run: datadog-ci synthetics run-tests --apiKey $DATADOG_API_KEY --appKey $DATADOG_APP_KEY --public-id wwc-cw7-pgg --datadogSite ap1.datadoghq.com
+        run: datadog-ci synthetics run-tests --apiKey 12883751f7332e233ae9186cc2ff6f65 --appKey e8dd9aa4ca8cc33b01eac786d0e832c890c6efaa --public-id wwc-cw7-pgg --datadogSite ap1.datadoghq.com
         
