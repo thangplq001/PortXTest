@@ -27,4 +27,5 @@ jobs:
           DATADOG_APP_KEY: 'e8dd9aa4ca8cc33b01eac786d0e832c890c6efaa'
           LOGIN_USER: 'autotest'
           LOGIN_PASSWORD: 'G8d2pass@'
-        run: datadog-ci synthetics run-tests --apiKey 12883751f7332e233ae9186cc2ff6f65 --appKey e8dd9aa4ca8cc33b01eac786d0e832c890c6efaa --public-id bpv-q45-uv2 --datadogSite ap1.datadoghq.com
+        run: datadog-ci synthetics run-tests --apiKey $DATADOG_API_KEY --appKey $DATADOG_APP_KEY --public-id wz4-fvd-ka9 --datadogSite ap1.datadoghq.com --variable "LOGIN_USER=$LOGIN_USER" --variable "LOGIN_PASSWORD=$LOGIN_PASSWORD"
+      
